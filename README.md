@@ -9,4 +9,4 @@ This repo contains the files and information from team BMEG Disruptors at the Sc
 * User Interface-Export-04-29-2023.xml
   * This algorithm is the user interface on a computer
 * The CAD of the washing machine in our physical proto was acquired from: https://grabcad.com/library/dcn28-endustriyel-yikama-makinasi-1
-  * The PlastiCamp was added to the back of the washing machine by our team
+  * The PlastiCam was added to the back of the washing machine by our team
