@@ -1,0 +1,5757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>PlastiCam</title>
+    <link>https://plane-round-ag8g.squarespace.com</link>
+    <pubDate>Sat, 29 Apr 2023 06:51:43 +0000</pubDate>
+    <description />
+    <language>en-CA</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>-1647252335</wp:author_id>
+      <wp:author_login>mona.behrouzian1@gmail.com</wp:author_login>
+      <wp:author_email>mona.behrouzian1@gmail.com</wp:author_email>
+      <wp:author_display_name><![CDATA[Mona Behrouzian]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[Mona]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[Behrouzian]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[null - null]]></wp:cat_name>
+      <wp:category_nicename>null-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/home</link>
+      <title>Home</title>
+      <pubDate>Sat, 29 Apr 2023 13:30:14 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="644cbe866f7a4b1e33328063">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="light"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+       has-background
+    
+    
+    light'
+  
+  data-section-id="644cbe866f7a4b1e33328073"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;644cc34956e8482a6fb4a120&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1682752329279,
+    &quot;updatedOn&quot;: 1682752333156,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1682752329279,
+    &quot;authorId&quot;: &quot;644cbdb199a6c04b5dade485&quot;,
+    &quot;systemDataId&quot;: &quot;1682752329323-0K685D9W6ZRQ2LSGVFUY&quot;,
+    &quot;systemDataVariants&quot;: &quot;2500x1667,100w,300w,500w,750w,1000w,1500w,2500w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+    &quot;filename&quot;: &quot;unsplash-image-6ArTTluciuA.jpg&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;c0d1db&quot;,
+      &quot;topRightAverage&quot;: &quot;d3dee6&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;2f6273&quot;,
+      &quot;bottomRightAverage&quot;: &quot;3e626b&quot;,
+      &quot;centerAverage&quot;: &quot;698b9a&quot;,
+      &quot;suggestedBgColor&quot;: &quot;7e97a0&quot;
+    },
+    &quot;urlId&quot;: &quot;wj4i3mbkl6oxc9k83vheemivbc69uc&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;644cbdb199a6c04b5dade485&quot;,
+      &quot;displayName&quot;: &quot;Mona Behrouzian&quot;,
+      &quot;firstName&quot;: &quot;Mona&quot;,
+      &quot;lastName&quot;: &quot;Behrouzian&quot;,
+      &quot;avatarUrl&quot;: &quot;https://static1.squarespace.com/static/images/644cbdb26199f81f1d76df44&quot;,
+      &quot;bio&quot;: &quot;&quot;,
+      &quot;avatarAssetUrl&quot;: &quot;https://static1.squarespace.com/static/images/644cbdb26199f81f1d76df44&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/1682752329323-0K685D9W6ZRQ2LSGVFUY/unsplash-image-6ArTTluciuA.jpg&quot;,
+    &quot;contentType&quot;: &quot;image/jpeg&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;recordTypeLabel&quot;: &quot;image&quot;,
+    &quot;originalSize&quot;: &quot;2500x1667&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.5,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;customSectionHeight&quot;: 1,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;light&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;,
+  &quot;imageEffect&quot;: &quot;none&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;parallax&quot;,
+    &quot;rotation&quot;: 90,
+    &quot;intensity&quot;: 30
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+        
+        
+          
+              
+
+
+
+  
+    
+<script>
+  "use strict";
+
+  var positionImage = function positionImage(imageEl) {
+    var imageDimensions = imageEl.dataset.imageDimensions.split('x');
+    var originalWidth = imageDimensions[0];
+    var originalHeight = imageDimensions[1];
+    var focalPoint = imageEl.dataset.imageFocalPoint.split(',');
+    var focalPointX = focalPoint[0];
+    var focalPointY = focalPoint[1];
+    var parentNode = imageEl.parentNode;
+
+    var scale = function () {
+      var imageRatio = originalWidth / originalHeight;
+      var parentClientSize = {
+        height: parentNode.clientHeight,
+        width: parentNode.clientWidth
+      };
+      var parentRatio = parentClientSize.width / parentClientSize.height;
+
+      if (imageRatio > parentRatio) {
+        return parentClientSize.height / originalHeight;
+      }
+
+      return parentClientSize.width / originalWidth;
+    }();
+
+    var getRelativeOffset = function getRelativeOffset() {
+      var targetWidth = Math.ceil(originalWidth * scale);
+      var targetHeight = Math.ceil(originalHeight * scale);
+      var parentDimensionWidth = parentNode.offsetWidth;
+      var parentDimensionHeight = parentNode.offsetHeight;
+      var overflowWidth = targetWidth - parentDimensionWidth;
+      var overflowHeight = targetHeight - parentDimensionHeight;
+      var valueX;
+
+      if (overflowWidth === 0) {
+        valueX = focalPointX;
+      } else {
+        valueX = Math.max(Math.min(targetWidth * focalPointX - parentDimensionWidth * 0.5, overflowWidth), 0) / overflowWidth;
+      }
+
+      var valueY;
+
+      if (overflowHeight === 0) {
+        valueY = focalPointY;
+      } else {
+        valueY = Math.max(Math.min(targetHeight * focalPointY - parentDimensionHeight * 0.5, overflowHeight), 0) / overflowHeight;
+      }
+
+      return {
+        valueX: valueX,
+        valueY: valueY
+      };
+    };
+
+    var relativeOffset = getRelativeOffset();
+    var valueX = relativeOffset.valueX;
+    var valueY = relativeOffset.valueY;
+    imageEl.style.objectPosition = "".concat(valueX * 100, "% ").concat(valueY * 100, "%");
+    Object.assign(imageEl.style, {
+      height: '100%',
+      width: '100%',
+      objectFit: 'cover',
+    });
+  };
+</script>
+
+  
+
+
+
+  <div
+  class="section-background-content"
+  data-controller="BackgroundImageFXParallax"
+  >
+  
+  <img class="background-image-fx" crossOrigin alt="" src="https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/1682752329323-0K685D9W6ZRQ2LSGVFUY/unsplash-image-6ArTTluciuA.jpg" data-image="https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/1682752329323-0K685D9W6ZRQ2LSGVFUY/unsplash-image-6ArTTluciuA.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="unsplash-image-6ArTTluciuA.jpg"  data-load="false"
+    
+       srcset="https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/1682752329323-0K685D9W6ZRQ2LSGVFUY/unsplash-image-6ArTTluciuA.jpg?format=100w 100w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/1682752329323-0K685D9W6ZRQ2LSGVFUY/unsplash-image-6ArTTluciuA.jpg?format=300w 300w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/1682752329323-0K685D9W6ZRQ2LSGVFUY/unsplash-image-6ArTTluciuA.jpg?format=500w 500w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/1682752329323-0K685D9W6ZRQ2LSGVFUY/unsplash-image-6ArTTluciuA.jpg?format=750w 750w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/1682752329323-0K685D9W6ZRQ2LSGVFUY/unsplash-image-6ArTTluciuA.jpg?format=1000w 1000w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/1682752329323-0K685D9W6ZRQ2LSGVFUY/unsplash-image-6ArTTluciuA.jpg?format=1500w 1500w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/1682752329323-0K685D9W6ZRQ2LSGVFUY/unsplash-image-6ArTTluciuA.jpg?format=2500w 2500w"
+        
+        sizes="(max-width: 799px) 200vw, 100vw" 
+        onLoad="positionImage(this); this.classList.add('loaded');"
+    
+  />
+
+
+  <div class="section-background-canvas background-fx-canvas"></div>
+</div>
+
+
+            
+        
+        <div class="section-background-overlay" style="opacity: 0.5;"></div>
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-644cbe866f7a4b1e33328072 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(30,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-644cbe866f7a4b1e33328072 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-644cbe866f7a4b1e33328072 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(15,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-6b1b19986fc286b91993 {
+    grid-area: 1/2/9/10;
+    z-index: 0;
+  }
+
+  .fe-block-6b1b19986fc286b91993 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-6b1b19986fc286b91993 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-6b1b19986fc286b91993 {
+      grid-area: 1/2/4/26;
+      z-index: 1;
+    }
+
+    .fe-block-6b1b19986fc286b91993 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-6b1b19986fc286b91993 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-2cba61a216e7a7f7e241 {
+    grid-area: 5/2/8/10;
+    z-index: 2;
+  }
+
+  .fe-block-2cba61a216e7a7f7e241 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-2cba61a216e7a7f7e241 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-2cba61a216e7a7f7e241 {
+      grid-area: 4/9/6/19;
+      z-index: 2;
+    }
+
+    .fe-block-2cba61a216e7a7f7e241 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-2cba61a216e7a7f7e241 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1682769104958_27522 {
+    grid-area: 9/2/15/10;
+    z-index: 4;
+  }
+
+  .fe-block-yui_3_17_2_1_1682769104958_27522 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1682769104958_27522 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1682769104958_27522 {
+      grid-area: 5/8/13/20;
+      z-index: 3;
+    }
+
+    .fe-block-yui_3_17_2_1_1682769104958_27522 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1682769104958_27522 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1682751610242_2741 {
+    grid-area: 15/2/31/10;
+    z-index: 3;
+  }
+
+  .fe-block-yui_3_17_2_1_1682751610242_2741 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1682751610242_2741 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1682751610242_2741 {
+      grid-area: 6/9/16/19;
+      z-index: 4;
+    }
+
+    .fe-block-yui_3_17_2_1_1682751610242_2741 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1682751610242_2741 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-644cbe866f7a4b1e33328072"><div class="fe-block fe-block-6b1b19986fc286b91993"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-6b1b19986fc286b91993"><div class="sqs-block-content">
+
+<h2 style="text-align:center;white-space:pre-wrap;">Clean clothes, clean planet</h2>
+
+
+
+</div></div></div><div class="fe-block fe-block-2cba61a216e7a7f7e241"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-2cba61a216e7a7f7e241"><div class="sqs-block-content">
+
+<p style="text-align:center;white-space:pre-wrap;" class="sqsrte-large">Log in to begin your measurement.</p>
+
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1682769104958_27522"><div class="sqs-block shape-block sqs-block-shape sqs-stretched" data-block-type="71" id="block-yui_3_17_2_1_1682769104958_27522"><div class="sqs-block-content">
+
+<div
+  class="sqs-shape-block-container sqs-block-alignment-wrapper"
+  data-shape-name="rectangle"
+  
+>
+  
+    <div class="sqs-shape sqs-shape-rectangle"
+    style="
+      
+      
+      
+      
+    "
+    ></div>
+  
+  <style>
+    #block-yui_3_17_2_1_1682769104958_27522 .sqs-block-alignment-wrapper {
+      
+      
+      justify-content: center;
+      
+      
+    }
+
+    
+      
+        #block-yui_3_17_2_1_1682769104958_27522 {
+          --shape-block-background-color: 
+  
+  
+    hsla(0, 0%, 100%, 0.5)
+  
+;
+        }
+      
+    
+
+    
+      
+      
+    
+  </style>
+</div>
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1682751610242_2741"><div class="sqs-block form-block sqs-block-form" data-block-type="9" id="block-yui_3_17_2_1_1682751610242_2741"><div class="sqs-block-content">
+
+
+
+
+
+
+
+<div class="form-wrapper"
+  
+>
+  
+  <div class="form-inner-wrapper" >
+    <form
+       data-form-id="644cc18640aa4e1a61485cc3"
+       data-success-redirect="/select-test"
+       data-dynamic-strings
+       autocomplete="on"
+       
+       method="POST"
+       action="https://plane-round-ag8g.squarespace.com"
+       novalidate
+       onsubmit="return (function (form) {
+  Y.use('squarespace-form-submit', 'node', function usingFormSubmit(Y) {
+    (new Y.Squarespace.FormSubmit(form)).submit({
+      formId: '644cc18640aa4e1a61485cc3',
+      collectionId: '644cbe866f7a4b1e33328064',
+      objectName: 'yui_3_17_2_1_1682751610242_2741'
+    });
+  });
+  return false;
+})(this);"
+       
+    >
+      
+        <div class="field-list clear">
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+              <div id="text-c92094f9-7346-4973-9d80-2a58441e942e" class="form-item field text">
+                
+            <label class="title" for="text-c92094f9-7346-4973-9d80-2a58441e942e-field">
+              Username
+              
+            </label>
+          
+                
+                <input
+                    class="field-element text"
+                    type="text"
+                    id="text-c92094f9-7346-4973-9d80-2a58441e942e-field"
+                    
+                    
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+              <div id="text-3b5c9c2e-f332-4c6c-b453-b74d5e64a8d6" class="form-item field text">
+                
+            <label class="title" for="text-3b5c9c2e-f332-4c6c-b453-b74d5e64a8d6-field">
+              Password
+              
+            </label>
+          
+                
+                <input
+                    class="field-element text"
+                    type="text"
+                    id="text-3b5c9c2e-f332-4c6c-b453-b74d5e64a8d6-field"
+                    
+                    
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+              <div id="text-11274793-36b8-4b57-9e10-d2559d2773bb" class="form-item field text">
+                
+            <label class="title" for="text-11274793-36b8-4b57-9e10-d2559d2773bb-field">
+              License Key
+              
+            </label>
+          
+                
+                <input
+                    class="field-element text"
+                    type="text"
+                    id="text-11274793-36b8-4b57-9e10-d2559d2773bb-field"
+                    
+                    
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        </div>
+
+      
+
+      
+
+      
+      <div data-animation-role="button"
+        class="
+          form-button-wrapper
+          
+            form-button-wrapper--align-center
+          
+        "
+      >
+        <input
+          class="button sqs-system-button sqs-editable-button sqs-button-element--primary"
+          type="submit"
+          value="Continue"
+        />
+      </div>
+      
+
+      
+        
+      
+      <div class="hidden form-submission-text"><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></div>
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+  </div>
+</div>
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>home</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/select-test</link>
+      <title>Select Test</title>
+      <pubDate>Sat, 29 Apr 2023 12:47:08 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="644cc49dce61902cb77a5eb7">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="light"
+  class='page-section has-section-divider
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+       has-background
+    
+    
+    light'
+  
+  data-section-id="644cc5042b7b17038057fca3"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;644ccca58adc0f32ac8b1035&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1682754725985,
+    &quot;updatedOn&quot;: 1682754806468,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1682754725985,
+    &quot;authorId&quot;: &quot;644cbdb199a6c04b5dade485&quot;,
+    &quot;systemDataId&quot;: &quot;04b61897-b65a-45fb-abfb-6a31bd3a10f7&quot;,
+    &quot;systemDataVariants&quot;: &quot;6000x4000,100w,300w,500w,750w,1000w,1500w,2500w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+    &quot;filename&quot;: &quot;matt-hardy-6ArTTluciuA-unsplash.jpg&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;bfd1da&quot;,
+      &quot;topRightAverage&quot;: &quot;d3dee5&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;2e6171&quot;,
+      &quot;bottomRightAverage&quot;: &quot;3d616a&quot;,
+      &quot;centerAverage&quot;: &quot;698a99&quot;,
+      &quot;suggestedBgColor&quot;: &quot;7d979f&quot;
+    },
+    &quot;urlId&quot;: &quot;8ff2hxwtzrdzz1yk8lwamwi93eywgo&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;644cbdb199a6c04b5dade485&quot;,
+      &quot;displayName&quot;: &quot;Mona Behrouzian&quot;,
+      &quot;firstName&quot;: &quot;Mona&quot;,
+      &quot;lastName&quot;: &quot;Behrouzian&quot;,
+      &quot;avatarUrl&quot;: &quot;https://static1.squarespace.com/static/images/644cbdb26199f81f1d76df44&quot;,
+      &quot;bio&quot;: &quot;&quot;,
+      &quot;avatarAssetUrl&quot;: &quot;https://static1.squarespace.com/static/images/644cbdb26199f81f1d76df44&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg&quot;,
+    &quot;contentType&quot;: &quot;image/jpeg&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;recordTypeLabel&quot;: &quot;image&quot;,
+    &quot;originalSize&quot;: &quot;6000x4000&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.49,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;light&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;,
+  &quot;imageEffect&quot;: &quot;none&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;liquid&quot;,
+    &quot;rotation&quot;: 270,
+    &quot;speed&quot;: 50,
+    &quot;intensity&quot;: 10,
+    &quot;scale&quot;: 2,
+    &quot;shadow&quot;: 8,
+    &quot;seed&quot;: 100,
+    &quot;smoothness&quot;: 100,
+    &quot;morphSpeed&quot;: 5
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: true,
+    &quot;type&quot;: &quot;pointed&quot;,
+    &quot;width&quot;: {
+      &quot;unit&quot;: &quot;vw&quot;,
+      &quot;value&quot;: 100.0
+    },
+    &quot;height&quot;: {
+      &quot;unit&quot;: &quot;vw&quot;,
+      &quot;value&quot;: 8.0
+    },
+    &quot;isFlipX&quot;: true,
+    &quot;isFlipY&quot;: false,
+    &quot;offset&quot;: {
+      &quot;unit&quot;: &quot;px&quot;,
+      &quot;value&quot;: 0.0
+    },
+    &quot;stroke&quot;: {
+      &quot;style&quot;: &quot;none&quot;,
+      &quot;color&quot;: {
+        &quot;type&quot;: &quot;THEME_COLOR&quot;
+      },
+      &quot;thickness&quot;: {
+        &quot;unit&quot;: &quot;px&quot;,
+        &quot;value&quot;: 6.0
+      },
+      &quot;dashLength&quot;: {
+        &quot;unit&quot;: &quot;px&quot;,
+        &quot;value&quot;: 5.0
+      },
+      &quot;gapLength&quot;: {
+        &quot;unit&quot;: &quot;px&quot;,
+        &quot;value&quot;: 15.0
+      },
+      &quot;linecap&quot;: &quot;square&quot;
+    }
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div
+    class="section-border" 
+    
+      data-controller="SectionDivider"
+      style="clip-path: url(#section-divider-644cc5042b7b17038057fca3);"
+    
+  >
+    <div class="section-background">
+    
+      
+        
+        
+          
+              
+
+
+
+  
+    
+<script>
+  "use strict";
+
+  var positionImage = function positionImage(imageEl) {
+    var imageDimensions = imageEl.dataset.imageDimensions.split('x');
+    var originalWidth = imageDimensions[0];
+    var originalHeight = imageDimensions[1];
+    var focalPoint = imageEl.dataset.imageFocalPoint.split(',');
+    var focalPointX = focalPoint[0];
+    var focalPointY = focalPoint[1];
+    var parentNode = imageEl.parentNode;
+
+    var scale = function () {
+      var imageRatio = originalWidth / originalHeight;
+      var parentClientSize = {
+        height: parentNode.clientHeight,
+        width: parentNode.clientWidth
+      };
+      var parentRatio = parentClientSize.width / parentClientSize.height;
+
+      if (imageRatio > parentRatio) {
+        return parentClientSize.height / originalHeight;
+      }
+
+      return parentClientSize.width / originalWidth;
+    }();
+
+    var getRelativeOffset = function getRelativeOffset() {
+      var targetWidth = Math.ceil(originalWidth * scale);
+      var targetHeight = Math.ceil(originalHeight * scale);
+      var parentDimensionWidth = parentNode.offsetWidth;
+      var parentDimensionHeight = parentNode.offsetHeight;
+      var overflowWidth = targetWidth - parentDimensionWidth;
+      var overflowHeight = targetHeight - parentDimensionHeight;
+      var valueX;
+
+      if (overflowWidth === 0) {
+        valueX = focalPointX;
+      } else {
+        valueX = Math.max(Math.min(targetWidth * focalPointX - parentDimensionWidth * 0.5, overflowWidth), 0) / overflowWidth;
+      }
+
+      var valueY;
+
+      if (overflowHeight === 0) {
+        valueY = focalPointY;
+      } else {
+        valueY = Math.max(Math.min(targetHeight * focalPointY - parentDimensionHeight * 0.5, overflowHeight), 0) / overflowHeight;
+      }
+
+      return {
+        valueX: valueX,
+        valueY: valueY
+      };
+    };
+
+    var relativeOffset = getRelativeOffset();
+    var valueX = relativeOffset.valueX;
+    var valueY = relativeOffset.valueY;
+    imageEl.style.objectPosition = "".concat(valueX * 100, "% ").concat(valueY * 100, "%");
+    Object.assign(imageEl.style, {
+      height: '100%',
+      width: '100%',
+      objectFit: 'cover',
+    });
+  };
+</script>
+
+  
+
+
+
+  <div
+  class="section-background-content"
+  data-controller="BackgroundImageFXLiquid"
+  >
+  
+  <img class="background-image-fx" crossOrigin alt="" src="https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg" data-image="https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg" data-image-dimensions="6000x4000" data-image-focal-point="0.5,0.5" alt="matt-hardy-6ArTTluciuA-unsplash.jpg"  data-load="false"
+    
+       srcset="https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg?format=100w 100w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg?format=300w 300w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg?format=500w 500w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg?format=750w 750w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg?format=1000w 1000w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg?format=1500w 1500w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg?format=2500w 2500w"
+        
+        sizes="(max-width: 799px) 200vw, 100vw" 
+        onLoad="positionImage(this); this.classList.add('loaded');"
+    
+  />
+
+
+  <div class="section-background-canvas background-fx-canvas"></div>
+</div>
+
+
+            
+        
+        <div class="section-background-overlay" style="opacity: 0.49;"></div>
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-644cc5042b7b17038057fca2 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(16,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-644cc5042b7b17038057fca2 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-644cc5042b7b17038057fca2 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(8,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-e9c341640edf169f7242 {
+    grid-area: 1/2/10/10;
+    z-index: 0;
+  }
+
+  .fe-block-e9c341640edf169f7242 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-e9c341640edf169f7242 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-e9c341640edf169f7242 {
+      grid-area: 1/6/3/22;
+      z-index: 0;
+    }
+
+    .fe-block-e9c341640edf169f7242 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-e9c341640edf169f7242 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1682751610242_19942 {
+    grid-area: 11/2/13/10;
+    z-index: 2;
+  }
+
+  .fe-block-yui_3_17_2_1_1682751610242_19942 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1682751610242_19942 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1682751610242_19942 {
+      grid-area: 3/10/5/18;
+      z-index: 2;
+    }
+
+    .fe-block-yui_3_17_2_1_1682751610242_19942 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1682751610242_19942 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-7292dc3bc499b3a46940 {
+    grid-area: 13/2/15/10;
+    z-index: 3;
+  }
+
+  .fe-block-7292dc3bc499b3a46940 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-7292dc3bc499b3a46940 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-7292dc3bc499b3a46940 {
+      grid-area: 5/10/7/18;
+      z-index: 3;
+    }
+
+    .fe-block-7292dc3bc499b3a46940 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-7292dc3bc499b3a46940 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-3e2fb62bd1fbfd7d0241 {
+    grid-area: 15/2/17/10;
+    z-index: 4;
+  }
+
+  .fe-block-3e2fb62bd1fbfd7d0241 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-3e2fb62bd1fbfd7d0241 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-3e2fb62bd1fbfd7d0241 {
+      grid-area: 7/10/9/18;
+      z-index: 4;
+    }
+
+    .fe-block-3e2fb62bd1fbfd7d0241 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-3e2fb62bd1fbfd7d0241 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-644cc5042b7b17038057fca2"><div class="fe-block fe-block-e9c341640edf169f7242"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-e9c341640edf169f7242"><div class="sqs-block-content">
+
+<h3 style="text-align:center;white-space:pre-wrap;">Select Test:</h3>
+
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1682751610242_19942"><div class="sqs-block button-block sqs-block-button sqs-stretched" data-block-type="53" id="block-yui_3_17_2_1_1682751610242_19942"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container sqs-block-button-container--center"
+  data-animation-role="button"
+  data-alignment="center"
+  data-button-size="medium"
+  data-button-type="primary"
+>
+  <a
+    href="/select-test-1"
+    class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+    
+  >
+    + Create New Test
+  </a>
+</div>
+</div></div></div><div class="fe-block fe-block-7292dc3bc499b3a46940"><div class="sqs-block button-block sqs-block-button sqs-stretched" data-block-type="53" id="block-7292dc3bc499b3a46940"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container sqs-block-button-container--center"
+  data-animation-role="button"
+  data-alignment="center"
+  data-button-size="medium"
+  data-button-type="primary"
+>
+  <a
+    href=""
+    class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+    
+  >
+    ⟲ Prototype B Test
+  </a>
+</div>
+</div></div></div><div class="fe-block fe-block-3e2fb62bd1fbfd7d0241"><div class="sqs-block button-block sqs-block-button sqs-stretched" data-block-type="53" id="block-3e2fb62bd1fbfd7d0241"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container sqs-block-button-container--center"
+  data-animation-role="button"
+  data-alignment="center"
+  data-button-size="medium"
+  data-button-type="primary"
+>
+  <a
+    href=""
+    class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+    
+  >
+    ⟲ Prototype A Test
+  </a>
+</div>
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+
+
+
+
+
+<div
+  class="section-divider-display"
+  style="
+    --stroke-thickness: 0;
+    --stroke-dasharray: 0;
+    --stroke-linecap: square;
+    
+      
+      
+    
+  "
+>
+  <style data-section-divider-style>
+    .has-section-divider[data-section-id="644cc5042b7b17038057fca3"] {
+      padding-bottom: 8vw;
+      z-index: calc(1 + 1 - 1);
+    }
+
+    .has-section-divider[data-section-id="644cc5042b7b17038057fca3"] .background-pause-button {
+      bottom: calc(14px + 8vw);
+    }
+
+    .has-section-divider[data-section-id="644cc5042b7b17038057fca3"] .section-divider-svg-clip {
+      display: block;
+    }
+
+    .has-section-divider[data-section-id="644cc5042b7b17038057fca3"].background-width--inset:not(.content-collection):not(.gallery-section):not(.user-items-list-section) {
+      padding-bottom: calc(var(--sqs-site-gutter) + 8vw);
+    }
+
+    .has-section-divider[data-section-id="644cc5042b7b17038057fca3"].background-width--inset:not(.content-collection):not(.gallery-section):not(.user-items-list-section) .section-background {
+      bottom: calc(var(--sqs-site-gutter) + 8vw);
+    }
+
+    .has-section-divider[data-section-id="644cc5042b7b17038057fca3"] .section-divider-block {
+      height: 8vw;
+    }
+
+    .has-section-divider[data-section-id="644cc5042b7b17038057fca3"] + .page-section .section-border,
+    .has-section-divider[data-section-id="644cc5042b7b17038057fca3"] + .page-section .section-divider-display,
+    footer > .page-section:first-child .section-border,
+    footer > .page-section:first-child .section-divider-display {
+      top: -8vw;
+    }
+
+    .has-section-divider[data-section-id="644cc5042b7b17038057fca3"] + .page-section.background-width--inset:not(.content-collection):not(.gallery-section):not(.user-items-list-section) .section-background,
+    footer > .page-section.background-width--inset:first-child:not(.content-collection):not(.gallery-section):not(.user-items-list-section) .section-background {
+      top: calc(var(--sqs-site-gutter) + 8vw);
+    }
+  </style>
+  <div class="section-divider-block"></div>
+  <svg class="section-divider-svg-clip">
+    <clipPath
+      id="section-divider-644cc5042b7b17038057fca3"
+      clipPathUnits="objectBoundingBox"
+    >
+      <path class="section-divider-clip" d="M0,0" />
+    </clipPath>
+  </svg>
+  <svg class="section-divider-svg-stroke" viewBox="0 0 1 1" preserveAspectRatio="none">
+    <path class="section-divider-stroke" d="M0,0" vector-effect="non-scaling-stroke" />
+  </svg>
+</div>
+
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>select-test</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/select-test-1</link>
+      <title>Test Conditions</title>
+      <pubDate>Sat, 29 Apr 2023 12:42:43 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="644cccf68691273179576f36">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="light"
+  class='page-section has-section-divider
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+       has-background
+    
+    
+    light'
+  
+  data-section-id="644cccf68691273179576f3a"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;644cccf68691273179576f35&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1682754725985,
+    &quot;updatedOn&quot;: 1682754726037,
+    &quot;starred&quot;: false,
+    &quot;passthrough&quot;: false,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1682754725985,
+    &quot;authorId&quot;: &quot;644cbdb199a6c04b5dade485&quot;,
+    &quot;systemDataId&quot;: &quot;04b61897-b65a-45fb-abfb-6a31bd3a10f7&quot;,
+    &quot;systemDataVariants&quot;: &quot;6000x4000,100w,300w,500w,750w,1000w,1500w,2500w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+    &quot;filename&quot;: &quot;matt-hardy-6ArTTluciuA-unsplash.jpg&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;bfd1da&quot;,
+      &quot;topRightAverage&quot;: &quot;d3dee5&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;2e6171&quot;,
+      &quot;bottomRightAverage&quot;: &quot;3d616a&quot;,
+      &quot;centerAverage&quot;: &quot;698a99&quot;,
+      &quot;suggestedBgColor&quot;: &quot;7d979f&quot;
+    },
+    &quot;urlId&quot;: &quot;8ff2hxwtzrdzz1yk8lwamwi93eywgo-rxcg2&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;644cbdb199a6c04b5dade485&quot;,
+      &quot;displayName&quot;: &quot;Mona Behrouzian&quot;,
+      &quot;firstName&quot;: &quot;Mona&quot;,
+      &quot;lastName&quot;: &quot;Behrouzian&quot;,
+      &quot;avatarUrl&quot;: &quot;https://static1.squarespace.com/static/images/644cbdb26199f81f1d76df44&quot;,
+      &quot;bio&quot;: &quot;&quot;,
+      &quot;avatarAssetUrl&quot;: &quot;https://static1.squarespace.com/static/images/644cbdb26199f81f1d76df44&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg&quot;,
+    &quot;contentType&quot;: &quot;image/jpeg&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;recordTypeLabel&quot;: &quot;image&quot;,
+    &quot;originalSize&quot;: &quot;6000x4000&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.51,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;light&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;,
+  &quot;imageEffect&quot;: &quot;none&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;liquid&quot;,
+    &quot;rotation&quot;: 270,
+    &quot;speed&quot;: 50,
+    &quot;intensity&quot;: 10,
+    &quot;scale&quot;: 2,
+    &quot;shadow&quot;: 8,
+    &quot;seed&quot;: 100,
+    &quot;smoothness&quot;: 100,
+    &quot;morphSpeed&quot;: 5
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: true,
+    &quot;type&quot;: &quot;pointed&quot;,
+    &quot;width&quot;: {
+      &quot;unit&quot;: &quot;vw&quot;,
+      &quot;value&quot;: 100.0
+    },
+    &quot;height&quot;: {
+      &quot;unit&quot;: &quot;vw&quot;,
+      &quot;value&quot;: 8.0
+    },
+    &quot;isFlipX&quot;: true,
+    &quot;isFlipY&quot;: false,
+    &quot;offset&quot;: {
+      &quot;unit&quot;: &quot;px&quot;,
+      &quot;value&quot;: 0.0
+    },
+    &quot;stroke&quot;: {
+      &quot;style&quot;: &quot;none&quot;,
+      &quot;color&quot;: {
+        &quot;type&quot;: &quot;THEME_COLOR&quot;
+      },
+      &quot;thickness&quot;: {
+        &quot;unit&quot;: &quot;px&quot;,
+        &quot;value&quot;: 6.0
+      },
+      &quot;dashLength&quot;: {
+        &quot;unit&quot;: &quot;px&quot;,
+        &quot;value&quot;: 5.0
+      },
+      &quot;gapLength&quot;: {
+        &quot;unit&quot;: &quot;px&quot;,
+        &quot;value&quot;: 15.0
+      },
+      &quot;linecap&quot;: &quot;square&quot;
+    }
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div
+    class="section-border" 
+    
+      data-controller="SectionDivider"
+      style="clip-path: url(#section-divider-644cccf68691273179576f3a);"
+    
+  >
+    <div class="section-background">
+    
+      
+        
+        
+          
+              
+
+
+
+  
+    
+<script>
+  "use strict";
+
+  var positionImage = function positionImage(imageEl) {
+    var imageDimensions = imageEl.dataset.imageDimensions.split('x');
+    var originalWidth = imageDimensions[0];
+    var originalHeight = imageDimensions[1];
+    var focalPoint = imageEl.dataset.imageFocalPoint.split(',');
+    var focalPointX = focalPoint[0];
+    var focalPointY = focalPoint[1];
+    var parentNode = imageEl.parentNode;
+
+    var scale = function () {
+      var imageRatio = originalWidth / originalHeight;
+      var parentClientSize = {
+        height: parentNode.clientHeight,
+        width: parentNode.clientWidth
+      };
+      var parentRatio = parentClientSize.width / parentClientSize.height;
+
+      if (imageRatio > parentRatio) {
+        return parentClientSize.height / originalHeight;
+      }
+
+      return parentClientSize.width / originalWidth;
+    }();
+
+    var getRelativeOffset = function getRelativeOffset() {
+      var targetWidth = Math.ceil(originalWidth * scale);
+      var targetHeight = Math.ceil(originalHeight * scale);
+      var parentDimensionWidth = parentNode.offsetWidth;
+      var parentDimensionHeight = parentNode.offsetHeight;
+      var overflowWidth = targetWidth - parentDimensionWidth;
+      var overflowHeight = targetHeight - parentDimensionHeight;
+      var valueX;
+
+      if (overflowWidth === 0) {
+        valueX = focalPointX;
+      } else {
+        valueX = Math.max(Math.min(targetWidth * focalPointX - parentDimensionWidth * 0.5, overflowWidth), 0) / overflowWidth;
+      }
+
+      var valueY;
+
+      if (overflowHeight === 0) {
+        valueY = focalPointY;
+      } else {
+        valueY = Math.max(Math.min(targetHeight * focalPointY - parentDimensionHeight * 0.5, overflowHeight), 0) / overflowHeight;
+      }
+
+      return {
+        valueX: valueX,
+        valueY: valueY
+      };
+    };
+
+    var relativeOffset = getRelativeOffset();
+    var valueX = relativeOffset.valueX;
+    var valueY = relativeOffset.valueY;
+    imageEl.style.objectPosition = "".concat(valueX * 100, "% ").concat(valueY * 100, "%");
+    Object.assign(imageEl.style, {
+      height: '100%',
+      width: '100%',
+      objectFit: 'cover',
+    });
+  };
+</script>
+
+  
+
+
+
+  <div
+  class="section-background-content"
+  data-controller="BackgroundImageFXLiquid"
+  >
+  
+  <img class="background-image-fx" crossOrigin alt="" src="https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg" data-image="https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg" data-image-dimensions="6000x4000" data-image-focal-point="0.5,0.5" alt="matt-hardy-6ArTTluciuA-unsplash.jpg"  data-load="false"
+    
+       srcset="https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg?format=100w 100w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg?format=300w 300w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg?format=500w 500w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg?format=750w 750w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg?format=1000w 1000w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg?format=1500w 1500w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg?format=2500w 2500w"
+        
+        sizes="(max-width: 799px) 200vw, 100vw" 
+        onLoad="positionImage(this); this.classList.add('loaded');"
+    
+  />
+
+
+  <div class="section-background-canvas background-fx-canvas"></div>
+</div>
+
+
+            
+        
+        <div class="section-background-overlay" style="opacity: 0.51;"></div>
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-644cccf68691273179576f39 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(32,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-644cccf68691273179576f39 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-644cccf68691273179576f39 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(15,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-8ad46398139c6bc28c54 {
+    grid-area: 1/2/10/10;
+    z-index: 0;
+  }
+
+  .fe-block-8ad46398139c6bc28c54 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-8ad46398139c6bc28c54 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-8ad46398139c6bc28c54 {
+      grid-area: 1/6/3/22;
+      z-index: 1;
+    }
+
+    .fe-block-8ad46398139c6bc28c54 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-8ad46398139c6bc28c54 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1682753672279_6989 {
+    grid-area: 10/2/26/10;
+    z-index: 1;
+  }
+
+  .fe-block-yui_3_17_2_1_1682753672279_6989 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1682753672279_6989 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1682753672279_6989 {
+      grid-area: 3/9/16/19;
+      z-index: 3;
+    }
+
+    .fe-block-yui_3_17_2_1_1682753672279_6989 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1682753672279_6989 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1682769104958_20476 {
+    grid-area: 26/2/32/10;
+    z-index: 2;
+  }
+
+  .fe-block-yui_3_17_2_1_1682769104958_20476 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1682769104958_20476 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1682769104958_20476 {
+      grid-area: 3/8/13/20;
+      z-index: 2;
+    }
+
+    .fe-block-yui_3_17_2_1_1682769104958_20476 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1682769104958_20476 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-644cccf68691273179576f39"><div class="fe-block fe-block-8ad46398139c6bc28c54"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-8ad46398139c6bc28c54"><div class="sqs-block-content">
+
+<h3 style="text-align:center;white-space:pre-wrap;">Set New Test Conditions:</h3>
+
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1682753672279_6989"><div class="sqs-block form-block sqs-block-form" data-block-type="9" id="block-yui_3_17_2_1_1682753672279_6989"><div class="sqs-block-content">
+
+
+
+
+
+
+
+<div class="form-wrapper"
+  
+>
+  
+  <div class="form-inner-wrapper" >
+    <form
+       data-form-id="644ccd59e340d62983a7d017"
+       data-success-redirect="/select-test-1-1"
+       data-dynamic-strings
+       autocomplete="on"
+       
+       method="POST"
+       action="https://plane-round-ag8g.squarespace.com"
+       novalidate
+       onsubmit="return (function (form) {
+  Y.use('squarespace-form-submit', 'node', function usingFormSubmit(Y) {
+    (new Y.Squarespace.FormSubmit(form)).submit({
+      formId: '644ccd59e340d62983a7d017',
+      collectionId: '644cccf68691273179576f37',
+      objectName: 'yui_3_17_2_1_1682753672279_6989'
+    });
+  });
+  return false;
+})(this);"
+       
+    >
+      
+        <div class="field-list clear">
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+              <div id="text-51bcbc59-4779-4b19-86fb-fa4b1e025968" class="form-item field text">
+                
+            <label class="title" for="text-51bcbc59-4779-4b19-86fb-fa4b1e025968-field">
+              Test Name
+              
+            </label>
+          
+                <div class="description">Label for this new test</div>
+                <input
+                    class="field-element text"
+                    type="text"
+                    id="text-51bcbc59-4779-4b19-86fb-fa4b1e025968-field"
+                    
+                    
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+              <div id="text-3b399584-8ec7-4522-9783-f2e228d42c7a" class="form-item field text">
+                
+            <label class="title" for="text-3b399584-8ec7-4522-9783-f2e228d42c7a-field">
+              Test Frequency (Minutes)
+              
+            </label>
+          
+                <div class="description">How often the measurement should be taken during the load</div>
+                <input
+                    class="field-element text"
+                    type="text"
+                    id="text-3b399584-8ec7-4522-9783-f2e228d42c7a-field"
+                    placeholder="Default 20 minutes"
+                    
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+              <div id="text-c5b5e3f7-f731-4441-a9b8-ab53c14b95e1" class="form-item field text">
+                
+            <label class="title" for="text-c5b5e3f7-f731-4441-a9b8-ab53c14b95e1-field">
+              Total Number of Samples
+              
+            </label>
+          
+                <div class="description">How many samples should be collected in the given frequency?</div>
+                <input
+                    class="field-element text"
+                    type="text"
+                    id="text-c5b5e3f7-f731-4441-a9b8-ab53c14b95e1-field"
+                    
+                    
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        </div>
+
+      
+
+      
+
+      
+      <div data-animation-role="button"
+        class="
+          form-button-wrapper
+          
+            form-button-wrapper--align-center
+          
+        "
+      >
+        <input
+          class="button sqs-system-button sqs-editable-button sqs-button-element--primary"
+          type="submit"
+          value="Save and Continue"
+        />
+      </div>
+      
+
+      
+      <div class="hidden form-submission-text"><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></div>
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+  </div>
+</div>
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1682769104958_20476"><div class="sqs-block shape-block sqs-block-shape sqs-stretched" data-block-type="71" id="block-yui_3_17_2_1_1682769104958_20476"><div class="sqs-block-content">
+
+<div
+  class="sqs-shape-block-container sqs-block-alignment-wrapper"
+  data-shape-name="rectangle"
+  
+>
+  
+    <div class="sqs-shape sqs-shape-rectangle"
+    style="
+      
+      
+      
+      
+    "
+    ></div>
+  
+  <style>
+    #block-yui_3_17_2_1_1682769104958_20476 .sqs-block-alignment-wrapper {
+      
+      
+      justify-content: center;
+      
+      
+    }
+
+    
+      
+        #block-yui_3_17_2_1_1682769104958_20476 {
+          --shape-block-background-color: 
+  
+  
+    hsla(0, 0%, 100%, 0.7)
+  
+;
+        }
+      
+    
+
+    
+      
+      
+    
+  </style>
+</div>
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+
+
+
+
+
+<div
+  class="section-divider-display"
+  style="
+    --stroke-thickness: 0;
+    --stroke-dasharray: 0;
+    --stroke-linecap: square;
+    
+      
+      
+    
+  "
+>
+  <style data-section-divider-style>
+    .has-section-divider[data-section-id="644cccf68691273179576f3a"] {
+      padding-bottom: 8vw;
+      z-index: calc(1 + 1 - 1);
+    }
+
+    .has-section-divider[data-section-id="644cccf68691273179576f3a"] .background-pause-button {
+      bottom: calc(14px + 8vw);
+    }
+
+    .has-section-divider[data-section-id="644cccf68691273179576f3a"] .section-divider-svg-clip {
+      display: block;
+    }
+
+    .has-section-divider[data-section-id="644cccf68691273179576f3a"].background-width--inset:not(.content-collection):not(.gallery-section):not(.user-items-list-section) {
+      padding-bottom: calc(var(--sqs-site-gutter) + 8vw);
+    }
+
+    .has-section-divider[data-section-id="644cccf68691273179576f3a"].background-width--inset:not(.content-collection):not(.gallery-section):not(.user-items-list-section) .section-background {
+      bottom: calc(var(--sqs-site-gutter) + 8vw);
+    }
+
+    .has-section-divider[data-section-id="644cccf68691273179576f3a"] .section-divider-block {
+      height: 8vw;
+    }
+
+    .has-section-divider[data-section-id="644cccf68691273179576f3a"] + .page-section .section-border,
+    .has-section-divider[data-section-id="644cccf68691273179576f3a"] + .page-section .section-divider-display,
+    footer > .page-section:first-child .section-border,
+    footer > .page-section:first-child .section-divider-display {
+      top: -8vw;
+    }
+
+    .has-section-divider[data-section-id="644cccf68691273179576f3a"] + .page-section.background-width--inset:not(.content-collection):not(.gallery-section):not(.user-items-list-section) .section-background,
+    footer > .page-section.background-width--inset:first-child:not(.content-collection):not(.gallery-section):not(.user-items-list-section) .section-background {
+      top: calc(var(--sqs-site-gutter) + 8vw);
+    }
+  </style>
+  <div class="section-divider-block"></div>
+  <svg class="section-divider-svg-clip">
+    <clipPath
+      id="section-divider-644cccf68691273179576f3a"
+      clipPathUnits="objectBoundingBox"
+    >
+      <path class="section-divider-clip" d="M0,0" />
+    </clipPath>
+  </svg>
+  <svg class="section-divider-svg-stroke" viewBox="0 0 1 1" preserveAspectRatio="none">
+    <path class="section-divider-stroke" d="M0,0" vector-effect="non-scaling-stroke" />
+  </svg>
+</div>
+
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>select-test-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>2</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/select-test-1-1</link>
+      <title>Load Sample</title>
+      <pubDate>Sat, 29 Apr 2023 11:19:29 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="644ccf5ce4a8325824e31d4a">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="light"
+  class='page-section has-section-divider
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+       has-background
+    
+    
+    light'
+  
+  data-section-id="644ccf5ce4a8325824e31d4e"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;644ccf5ce4a8325824e31d49&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1682754725985,
+    &quot;updatedOn&quot;: 1682754726037,
+    &quot;starred&quot;: false,
+    &quot;passthrough&quot;: false,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1682754725985,
+    &quot;authorId&quot;: &quot;644cbdb199a6c04b5dade485&quot;,
+    &quot;systemDataId&quot;: &quot;04b61897-b65a-45fb-abfb-6a31bd3a10f7&quot;,
+    &quot;systemDataVariants&quot;: &quot;6000x4000,100w,300w,500w,750w,1000w,1500w,2500w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+    &quot;filename&quot;: &quot;matt-hardy-6ArTTluciuA-unsplash.jpg&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;bfd1da&quot;,
+      &quot;topRightAverage&quot;: &quot;d3dee5&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;2e6171&quot;,
+      &quot;bottomRightAverage&quot;: &quot;3d616a&quot;,
+      &quot;centerAverage&quot;: &quot;698a99&quot;,
+      &quot;suggestedBgColor&quot;: &quot;7d979f&quot;
+    },
+    &quot;urlId&quot;: &quot;8ff2hxwtzrdzz1yk8lwamwi93eywgo-rxcg2-5g2t8&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;644cbdb199a6c04b5dade485&quot;,
+      &quot;displayName&quot;: &quot;Mona Behrouzian&quot;,
+      &quot;firstName&quot;: &quot;Mona&quot;,
+      &quot;lastName&quot;: &quot;Behrouzian&quot;,
+      &quot;avatarUrl&quot;: &quot;https://static1.squarespace.com/static/images/644cbdb26199f81f1d76df44&quot;,
+      &quot;bio&quot;: &quot;&quot;,
+      &quot;avatarAssetUrl&quot;: &quot;https://static1.squarespace.com/static/images/644cbdb26199f81f1d76df44&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg&quot;,
+    &quot;contentType&quot;: &quot;image/jpeg&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;recordTypeLabel&quot;: &quot;image&quot;,
+    &quot;originalSize&quot;: &quot;6000x4000&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.51,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;light&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;,
+  &quot;imageEffect&quot;: &quot;none&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;liquid&quot;,
+    &quot;rotation&quot;: 270,
+    &quot;speed&quot;: 50,
+    &quot;intensity&quot;: 10,
+    &quot;scale&quot;: 2,
+    &quot;shadow&quot;: 8,
+    &quot;seed&quot;: 100,
+    &quot;smoothness&quot;: 100,
+    &quot;morphSpeed&quot;: 5
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: true,
+    &quot;type&quot;: &quot;pointed&quot;,
+    &quot;width&quot;: {
+      &quot;unit&quot;: &quot;vw&quot;,
+      &quot;value&quot;: 100.0
+    },
+    &quot;height&quot;: {
+      &quot;unit&quot;: &quot;vw&quot;,
+      &quot;value&quot;: 8.0
+    },
+    &quot;isFlipX&quot;: true,
+    &quot;isFlipY&quot;: false,
+    &quot;offset&quot;: {
+      &quot;unit&quot;: &quot;px&quot;,
+      &quot;value&quot;: 0.0
+    },
+    &quot;stroke&quot;: {
+      &quot;style&quot;: &quot;none&quot;,
+      &quot;color&quot;: {
+        &quot;type&quot;: &quot;THEME_COLOR&quot;
+      },
+      &quot;thickness&quot;: {
+        &quot;unit&quot;: &quot;px&quot;,
+        &quot;value&quot;: 6.0
+      },
+      &quot;dashLength&quot;: {
+        &quot;unit&quot;: &quot;px&quot;,
+        &quot;value&quot;: 5.0
+      },
+      &quot;gapLength&quot;: {
+        &quot;unit&quot;: &quot;px&quot;,
+        &quot;value&quot;: 15.0
+      },
+      &quot;linecap&quot;: &quot;square&quot;
+    }
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div
+    class="section-border" 
+    
+      data-controller="SectionDivider"
+      style="clip-path: url(#section-divider-644ccf5ce4a8325824e31d4e);"
+    
+  >
+    <div class="section-background">
+    
+      
+        
+        
+          
+              
+
+
+
+  
+    
+<script>
+  "use strict";
+
+  var positionImage = function positionImage(imageEl) {
+    var imageDimensions = imageEl.dataset.imageDimensions.split('x');
+    var originalWidth = imageDimensions[0];
+    var originalHeight = imageDimensions[1];
+    var focalPoint = imageEl.dataset.imageFocalPoint.split(',');
+    var focalPointX = focalPoint[0];
+    var focalPointY = focalPoint[1];
+    var parentNode = imageEl.parentNode;
+
+    var scale = function () {
+      var imageRatio = originalWidth / originalHeight;
+      var parentClientSize = {
+        height: parentNode.clientHeight,
+        width: parentNode.clientWidth
+      };
+      var parentRatio = parentClientSize.width / parentClientSize.height;
+
+      if (imageRatio > parentRatio) {
+        return parentClientSize.height / originalHeight;
+      }
+
+      return parentClientSize.width / originalWidth;
+    }();
+
+    var getRelativeOffset = function getRelativeOffset() {
+      var targetWidth = Math.ceil(originalWidth * scale);
+      var targetHeight = Math.ceil(originalHeight * scale);
+      var parentDimensionWidth = parentNode.offsetWidth;
+      var parentDimensionHeight = parentNode.offsetHeight;
+      var overflowWidth = targetWidth - parentDimensionWidth;
+      var overflowHeight = targetHeight - parentDimensionHeight;
+      var valueX;
+
+      if (overflowWidth === 0) {
+        valueX = focalPointX;
+      } else {
+        valueX = Math.max(Math.min(targetWidth * focalPointX - parentDimensionWidth * 0.5, overflowWidth), 0) / overflowWidth;
+      }
+
+      var valueY;
+
+      if (overflowHeight === 0) {
+        valueY = focalPointY;
+      } else {
+        valueY = Math.max(Math.min(targetHeight * focalPointY - parentDimensionHeight * 0.5, overflowHeight), 0) / overflowHeight;
+      }
+
+      return {
+        valueX: valueX,
+        valueY: valueY
+      };
+    };
+
+    var relativeOffset = getRelativeOffset();
+    var valueX = relativeOffset.valueX;
+    var valueY = relativeOffset.valueY;
+    imageEl.style.objectPosition = "".concat(valueX * 100, "% ").concat(valueY * 100, "%");
+    Object.assign(imageEl.style, {
+      height: '100%',
+      width: '100%',
+      objectFit: 'cover',
+    });
+  };
+</script>
+
+  
+
+
+
+  <div
+  class="section-background-content"
+  data-controller="BackgroundImageFXLiquid"
+  >
+  
+  <img class="background-image-fx" crossOrigin alt="" src="https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg" data-image="https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg" data-image-dimensions="6000x4000" data-image-focal-point="0.5,0.5" alt="matt-hardy-6ArTTluciuA-unsplash.jpg"  data-load="false"
+    
+       srcset="https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg?format=100w 100w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg?format=300w 300w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg?format=500w 500w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg?format=750w 750w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg?format=1000w 1000w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg?format=1500w 1500w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg?format=2500w 2500w"
+        
+        sizes="(max-width: 799px) 200vw, 100vw" 
+        onLoad="positionImage(this); this.classList.add('loaded');"
+    
+  />
+
+
+  <div class="section-background-canvas background-fx-canvas"></div>
+</div>
+
+
+            
+        
+        <div class="section-background-overlay" style="opacity: 0.51;"></div>
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-644ccf5ce4a8325824e31d4d {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(12,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-644ccf5ce4a8325824e31d4d {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-644ccf5ce4a8325824e31d4d {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(5,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-ddbab4d2c32126a8d4a9 {
+    grid-area: 1/2/10/10;
+    z-index: 0;
+  }
+
+  .fe-block-ddbab4d2c32126a8d4a9 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-ddbab4d2c32126a8d4a9 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-ddbab4d2c32126a8d4a9 {
+      grid-area: 1/6/3/22;
+      z-index: 0;
+    }
+
+    .fe-block-ddbab4d2c32126a8d4a9 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-ddbab4d2c32126a8d4a9 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1682753672279_55364 {
+    grid-area: 10/2/12/6;
+    z-index: 1;
+  }
+
+  .fe-block-yui_3_17_2_1_1682753672279_55364 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1682753672279_55364 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1682753672279_55364 {
+      grid-area: 4/12/6/16;
+      z-index: 1;
+    }
+
+    .fe-block-yui_3_17_2_1_1682753672279_55364 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1682753672279_55364 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-644ccf5ce4a8325824e31d4d"><div class="fe-block fe-block-ddbab4d2c32126a8d4a9"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-ddbab4d2c32126a8d4a9"><div class="sqs-block-content">
+
+<h3 style="text-align:center;white-space:pre-wrap;">Put Specimen in Load</h3>
+
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1682753672279_55364"><div class="sqs-block button-block sqs-block-button sqs-stretched" data-block-type="53" id="block-yui_3_17_2_1_1682753672279_55364"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container sqs-block-button-container--center"
+  data-animation-role="button"
+  data-alignment="center"
+  data-button-size="medium"
+  data-button-type="primary"
+>
+  <a
+    href="/select-test-1-1-1"
+    class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+    
+  >
+    Next
+  </a>
+</div>
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+
+
+
+
+
+<div
+  class="section-divider-display"
+  style="
+    --stroke-thickness: 0;
+    --stroke-dasharray: 0;
+    --stroke-linecap: square;
+    
+      
+      
+    
+  "
+>
+  <style data-section-divider-style>
+    .has-section-divider[data-section-id="644ccf5ce4a8325824e31d4e"] {
+      padding-bottom: 8vw;
+      z-index: calc(1 + 1 - 1);
+    }
+
+    .has-section-divider[data-section-id="644ccf5ce4a8325824e31d4e"] .background-pause-button {
+      bottom: calc(14px + 8vw);
+    }
+
+    .has-section-divider[data-section-id="644ccf5ce4a8325824e31d4e"] .section-divider-svg-clip {
+      display: block;
+    }
+
+    .has-section-divider[data-section-id="644ccf5ce4a8325824e31d4e"].background-width--inset:not(.content-collection):not(.gallery-section):not(.user-items-list-section) {
+      padding-bottom: calc(var(--sqs-site-gutter) + 8vw);
+    }
+
+    .has-section-divider[data-section-id="644ccf5ce4a8325824e31d4e"].background-width--inset:not(.content-collection):not(.gallery-section):not(.user-items-list-section) .section-background {
+      bottom: calc(var(--sqs-site-gutter) + 8vw);
+    }
+
+    .has-section-divider[data-section-id="644ccf5ce4a8325824e31d4e"] .section-divider-block {
+      height: 8vw;
+    }
+
+    .has-section-divider[data-section-id="644ccf5ce4a8325824e31d4e"] + .page-section .section-border,
+    .has-section-divider[data-section-id="644ccf5ce4a8325824e31d4e"] + .page-section .section-divider-display,
+    footer > .page-section:first-child .section-border,
+    footer > .page-section:first-child .section-divider-display {
+      top: -8vw;
+    }
+
+    .has-section-divider[data-section-id="644ccf5ce4a8325824e31d4e"] + .page-section.background-width--inset:not(.content-collection):not(.gallery-section):not(.user-items-list-section) .section-background,
+    footer > .page-section.background-width--inset:first-child:not(.content-collection):not(.gallery-section):not(.user-items-list-section) .section-background {
+      top: calc(var(--sqs-site-gutter) + 8vw);
+    }
+  </style>
+  <div class="section-divider-block"></div>
+  <svg class="section-divider-svg-clip">
+    <clipPath
+      id="section-divider-644ccf5ce4a8325824e31d4e"
+      clipPathUnits="objectBoundingBox"
+    >
+      <path class="section-divider-clip" d="M0,0" />
+    </clipPath>
+  </svg>
+  <svg class="section-divider-svg-stroke" viewBox="0 0 1 1" preserveAspectRatio="none">
+    <path class="section-divider-stroke" d="M0,0" vector-effect="non-scaling-stroke" />
+  </svg>
+</div>
+
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>select-test-1-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>3</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/select-test-1-1-1</link>
+      <title>Data Collection in Progress</title>
+      <pubDate>Sat, 29 Apr 2023 11:20:14 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="644cd0608691273179579f26">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="light"
+  class='page-section has-section-divider
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+       has-background
+    
+    
+    light'
+  
+  data-section-id="644cd0608691273179579f2a"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;644cd0608691273179579f25&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1682754725985,
+    &quot;updatedOn&quot;: 1682754726037,
+    &quot;starred&quot;: false,
+    &quot;passthrough&quot;: false,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1682754725985,
+    &quot;authorId&quot;: &quot;644cbdb199a6c04b5dade485&quot;,
+    &quot;systemDataId&quot;: &quot;04b61897-b65a-45fb-abfb-6a31bd3a10f7&quot;,
+    &quot;systemDataVariants&quot;: &quot;6000x4000,100w,300w,500w,750w,1000w,1500w,2500w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+    &quot;filename&quot;: &quot;matt-hardy-6ArTTluciuA-unsplash.jpg&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;bfd1da&quot;,
+      &quot;topRightAverage&quot;: &quot;d3dee5&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;2e6171&quot;,
+      &quot;bottomRightAverage&quot;: &quot;3d616a&quot;,
+      &quot;centerAverage&quot;: &quot;698a99&quot;,
+      &quot;suggestedBgColor&quot;: &quot;7d979f&quot;
+    },
+    &quot;urlId&quot;: &quot;8ff2hxwtzrdzz1yk8lwamwi93eywgo-rxcg2-5g2t8-absgj&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;644cbdb199a6c04b5dade485&quot;,
+      &quot;displayName&quot;: &quot;Mona Behrouzian&quot;,
+      &quot;firstName&quot;: &quot;Mona&quot;,
+      &quot;lastName&quot;: &quot;Behrouzian&quot;,
+      &quot;avatarUrl&quot;: &quot;https://static1.squarespace.com/static/images/644cbdb26199f81f1d76df44&quot;,
+      &quot;bio&quot;: &quot;&quot;,
+      &quot;avatarAssetUrl&quot;: &quot;https://static1.squarespace.com/static/images/644cbdb26199f81f1d76df44&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg&quot;,
+    &quot;contentType&quot;: &quot;image/jpeg&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;recordTypeLabel&quot;: &quot;image&quot;,
+    &quot;originalSize&quot;: &quot;6000x4000&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.51,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;light&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;,
+  &quot;imageEffect&quot;: &quot;none&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;liquid&quot;,
+    &quot;rotation&quot;: 270,
+    &quot;speed&quot;: 50,
+    &quot;intensity&quot;: 10,
+    &quot;scale&quot;: 2,
+    &quot;shadow&quot;: 8,
+    &quot;seed&quot;: 100,
+    &quot;smoothness&quot;: 100,
+    &quot;morphSpeed&quot;: 5
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: true,
+    &quot;type&quot;: &quot;pointed&quot;,
+    &quot;width&quot;: {
+      &quot;unit&quot;: &quot;vw&quot;,
+      &quot;value&quot;: 100.0
+    },
+    &quot;height&quot;: {
+      &quot;unit&quot;: &quot;vw&quot;,
+      &quot;value&quot;: 8.0
+    },
+    &quot;isFlipX&quot;: true,
+    &quot;isFlipY&quot;: false,
+    &quot;offset&quot;: {
+      &quot;unit&quot;: &quot;px&quot;,
+      &quot;value&quot;: 0.0
+    },
+    &quot;stroke&quot;: {
+      &quot;style&quot;: &quot;none&quot;,
+      &quot;color&quot;: {
+        &quot;type&quot;: &quot;THEME_COLOR&quot;
+      },
+      &quot;thickness&quot;: {
+        &quot;unit&quot;: &quot;px&quot;,
+        &quot;value&quot;: 6.0
+      },
+      &quot;dashLength&quot;: {
+        &quot;unit&quot;: &quot;px&quot;,
+        &quot;value&quot;: 5.0
+      },
+      &quot;gapLength&quot;: {
+        &quot;unit&quot;: &quot;px&quot;,
+        &quot;value&quot;: 15.0
+      },
+      &quot;linecap&quot;: &quot;square&quot;
+    }
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div
+    class="section-border" 
+    
+      data-controller="SectionDivider"
+      style="clip-path: url(#section-divider-644cd0608691273179579f2a);"
+    
+  >
+    <div class="section-background">
+    
+      
+        
+        
+          
+              
+
+
+
+  
+    
+<script>
+  "use strict";
+
+  var positionImage = function positionImage(imageEl) {
+    var imageDimensions = imageEl.dataset.imageDimensions.split('x');
+    var originalWidth = imageDimensions[0];
+    var originalHeight = imageDimensions[1];
+    var focalPoint = imageEl.dataset.imageFocalPoint.split(',');
+    var focalPointX = focalPoint[0];
+    var focalPointY = focalPoint[1];
+    var parentNode = imageEl.parentNode;
+
+    var scale = function () {
+      var imageRatio = originalWidth / originalHeight;
+      var parentClientSize = {
+        height: parentNode.clientHeight,
+        width: parentNode.clientWidth
+      };
+      var parentRatio = parentClientSize.width / parentClientSize.height;
+
+      if (imageRatio > parentRatio) {
+        return parentClientSize.height / originalHeight;
+      }
+
+      return parentClientSize.width / originalWidth;
+    }();
+
+    var getRelativeOffset = function getRelativeOffset() {
+      var targetWidth = Math.ceil(originalWidth * scale);
+      var targetHeight = Math.ceil(originalHeight * scale);
+      var parentDimensionWidth = parentNode.offsetWidth;
+      var parentDimensionHeight = parentNode.offsetHeight;
+      var overflowWidth = targetWidth - parentDimensionWidth;
+      var overflowHeight = targetHeight - parentDimensionHeight;
+      var valueX;
+
+      if (overflowWidth === 0) {
+        valueX = focalPointX;
+      } else {
+        valueX = Math.max(Math.min(targetWidth * focalPointX - parentDimensionWidth * 0.5, overflowWidth), 0) / overflowWidth;
+      }
+
+      var valueY;
+
+      if (overflowHeight === 0) {
+        valueY = focalPointY;
+      } else {
+        valueY = Math.max(Math.min(targetHeight * focalPointY - parentDimensionHeight * 0.5, overflowHeight), 0) / overflowHeight;
+      }
+
+      return {
+        valueX: valueX,
+        valueY: valueY
+      };
+    };
+
+    var relativeOffset = getRelativeOffset();
+    var valueX = relativeOffset.valueX;
+    var valueY = relativeOffset.valueY;
+    imageEl.style.objectPosition = "".concat(valueX * 100, "% ").concat(valueY * 100, "%");
+    Object.assign(imageEl.style, {
+      height: '100%',
+      width: '100%',
+      objectFit: 'cover',
+    });
+  };
+</script>
+
+  
+
+
+
+  <div
+  class="section-background-content"
+  data-controller="BackgroundImageFXLiquid"
+  >
+  
+  <img class="background-image-fx" crossOrigin alt="" src="https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg" data-image="https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg" data-image-dimensions="6000x4000" data-image-focal-point="0.5,0.5" alt="matt-hardy-6ArTTluciuA-unsplash.jpg"  data-load="false"
+    
+       srcset="https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg?format=100w 100w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg?format=300w 300w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg?format=500w 500w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg?format=750w 750w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg?format=1000w 1000w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg?format=1500w 1500w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/04b61897-b65a-45fb-abfb-6a31bd3a10f7/matt-hardy-6ArTTluciuA-unsplash.jpg?format=2500w 2500w"
+        
+        sizes="(max-width: 799px) 200vw, 100vw" 
+        onLoad="positionImage(this); this.classList.add('loaded');"
+    
+  />
+
+
+  <div class="section-background-canvas background-fx-canvas"></div>
+</div>
+
+
+            
+        
+        <div class="section-background-overlay" style="opacity: 0.51;"></div>
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-644cd0608691273179579f29 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(14,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-644cd0608691273179579f29 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-644cd0608691273179579f29 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(10,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-6c7a4e66926ae7703aa4 {
+    grid-area: 1/2/10/10;
+    z-index: 0;
+  }
+
+  .fe-block-6c7a4e66926ae7703aa4 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-6c7a4e66926ae7703aa4 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-6c7a4e66926ae7703aa4 {
+      grid-area: 1/6/3/22;
+      z-index: 0;
+    }
+
+    .fe-block-6c7a4e66926ae7703aa4 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-6c7a4e66926ae7703aa4 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1682753672279_57544 {
+    grid-area: 10/2/12/10;
+    z-index: 2;
+  }
+
+  .fe-block-yui_3_17_2_1_1682753672279_57544 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1682753672279_57544 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1682753672279_57544 {
+      grid-area: 3/2/7/26;
+      z-index: 2;
+    }
+
+    .fe-block-yui_3_17_2_1_1682753672279_57544 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1682753672279_57544 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-2024bfb3efa040946ec9 {
+    grid-area: 12/2/14/6;
+    z-index: 1;
+  }
+
+  .fe-block-2024bfb3efa040946ec9 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-2024bfb3efa040946ec9 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-2024bfb3efa040946ec9 {
+      grid-area: 8/11/10/17;
+      z-index: 1;
+    }
+
+    .fe-block-2024bfb3efa040946ec9 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-2024bfb3efa040946ec9 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-644cd0608691273179579f29"><div class="fe-block fe-block-6c7a4e66926ae7703aa4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-6c7a4e66926ae7703aa4"><div class="sqs-block-content">
+
+<h3 style="text-align:center;white-space:pre-wrap;">Washing in Progress</h3>
+
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1682753672279_57544"><div class="sqs-block marquee-block sqs-block-marquee" data-block-type="70" id="block-yui_3_17_2_1_1682753672279_57544"><div class="sqs-block-content">
+
+
+
+<div class="Marquee" style="font-size: 1.5rem; --marquee-font-size-value: 1.5;">
+  <script class="Marquee-props" type="application/json">{
+  "marqueeItems": [ {
+    "text": "Loading"
+  }, {
+    "text": "〰️"
+  } ],
+  "linkTo": "",
+  "waveFrequency": 4,
+  "waveIntensity": 90,
+  "animationDirection": "left",
+  "animationSpeed": 1.0,
+  "textStyle": "heading-1",
+  "textSize": {
+    "unit": "rem",
+    "value": 1.5
+  },
+  "itemSpacing": {
+    "unit": "em",
+    "value": 0.5
+  },
+  "blockId": "yui_3_17_2_1_1682753672279_57544",
+  "containerStyles": {
+    "backgroundEnabled": false,
+    "borderRadii": {
+      "topLeft": {
+        "unit": "px",
+        "value": 0.0
+      },
+      "topRight": {
+        "unit": "px",
+        "value": 0.0
+      },
+      "bottomLeft": {
+        "unit": "px",
+        "value": 0.0
+      },
+      "bottomRight": {
+        "unit": "px",
+        "value": 0.0
+      }
+    },
+    "padding": {
+      "top": {
+        "unit": "%",
+        "value": 3.0
+      },
+      "right": {
+        "unit": "%",
+        "value": 0.0
+      },
+      "bottom": {
+        "unit": "%",
+        "value": 3.0
+      },
+      "left": {
+        "unit": "%",
+        "value": 0.0
+      }
+    },
+    "stretchedToFill": false
+  },
+  "featureFlags": {
+    "useCLDRMoneyFormat": true
+  }
+}</script>
+  <div class="Marquee-display ">
+    <div class="Marquee-measure">
+      
+        <h1
+
+          class="Marquee-item Marquee-item--text"
+
+          
+          style="margin-right: 0.5em; font-size: 1.5rem;"
+        >
+          Loading
+        </h1>
+      
+        <h1
+
+          class="Marquee-item Marquee-item--text"
+
+          
+          style="margin-right: 0.5em; font-size: 1.5rem;"
+        >
+          〰️
+        </h1>
+      
+    </div>
+
+    <h1
+      
+      style="font-size: 1.5rem; --marquee-font-size-value: 1.5;"
+    >
+      <svg
+        class="Marquee-svg"
+        fill="currentColor"
+        aria-hidden="true"
+      >
+        <g class="Marquee-path-group" transform="translate(0, 0)">
+          <path class="Marquee-path" fill="none" stroke="transparent" stroke-width="0" d="" stroke-dasharray="" />
+        </g>
+        <text>
+          <textPath class="Marquee-svg-text"></textPath>
+        </text>
+        <text>
+          <textPath class="Marquee-svg-group" visibility="hidden">
+            
+              <tspan class="Marquee-svg-text">Loading</tspan>
+            
+              <tspan class="Marquee-svg-text">〰️</tspan>
+            
+          </textPath>
+        </text>
+        <g class="Marquee-hitbox" data-hitbox >
+          <g class="Marquee-path-hitbox-group">
+            <path class="Marquee-path-hitbox" fill="none" stroke="transparent" d="" />
+            <path class="Marquee-path-hitbox-focus-outline" fill="none" stroke="transparent" stroke-width="2px" d="" />
+          </g>
+        </g>
+      </svg>
+      
+      <span class="v6-visually-hidden">
+        Loading 〰️ 
+      </span>
+    </h1>
+
+    <div class="Marquee-track"></div>
+  </div>
+</div>
+</div></div></div><div class="fe-block fe-block-2024bfb3efa040946ec9"><div class="sqs-block button-block sqs-block-button sqs-stretched" data-block-type="53" id="block-2024bfb3efa040946ec9"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container sqs-block-button-container--center"
+  data-animation-role="button"
+  data-alignment="center"
+  data-button-size="medium"
+  data-button-type="primary"
+>
+  <a
+    href="/results-per-sample"
+    class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+    
+  >
+    End Test
+  </a>
+</div>
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+
+
+
+
+
+<div
+  class="section-divider-display"
+  style="
+    --stroke-thickness: 0;
+    --stroke-dasharray: 0;
+    --stroke-linecap: square;
+    
+      
+      
+    
+  "
+>
+  <style data-section-divider-style>
+    .has-section-divider[data-section-id="644cd0608691273179579f2a"] {
+      padding-bottom: 8vw;
+      z-index: calc(1 + 1 - 1);
+    }
+
+    .has-section-divider[data-section-id="644cd0608691273179579f2a"] .background-pause-button {
+      bottom: calc(14px + 8vw);
+    }
+
+    .has-section-divider[data-section-id="644cd0608691273179579f2a"] .section-divider-svg-clip {
+      display: block;
+    }
+
+    .has-section-divider[data-section-id="644cd0608691273179579f2a"].background-width--inset:not(.content-collection):not(.gallery-section):not(.user-items-list-section) {
+      padding-bottom: calc(var(--sqs-site-gutter) + 8vw);
+    }
+
+    .has-section-divider[data-section-id="644cd0608691273179579f2a"].background-width--inset:not(.content-collection):not(.gallery-section):not(.user-items-list-section) .section-background {
+      bottom: calc(var(--sqs-site-gutter) + 8vw);
+    }
+
+    .has-section-divider[data-section-id="644cd0608691273179579f2a"] .section-divider-block {
+      height: 8vw;
+    }
+
+    .has-section-divider[data-section-id="644cd0608691273179579f2a"] + .page-section .section-border,
+    .has-section-divider[data-section-id="644cd0608691273179579f2a"] + .page-section .section-divider-display,
+    footer > .page-section:first-child .section-border,
+    footer > .page-section:first-child .section-divider-display {
+      top: -8vw;
+    }
+
+    .has-section-divider[data-section-id="644cd0608691273179579f2a"] + .page-section.background-width--inset:not(.content-collection):not(.gallery-section):not(.user-items-list-section) .section-background,
+    footer > .page-section.background-width--inset:first-child:not(.content-collection):not(.gallery-section):not(.user-items-list-section) .section-background {
+      top: calc(var(--sqs-site-gutter) + 8vw);
+    }
+  </style>
+  <div class="section-divider-block"></div>
+  <svg class="section-divider-svg-clip">
+    <clipPath
+      id="section-divider-644cd0608691273179579f2a"
+      clipPathUnits="objectBoundingBox"
+    >
+      <path class="section-divider-clip" d="M0,0" />
+    </clipPath>
+  </svg>
+  <svg class="section-divider-svg-stroke" viewBox="0 0 1 1" preserveAspectRatio="none">
+    <path class="section-divider-stroke" d="M0,0" vector-effect="non-scaling-stroke" />
+  </svg>
+</div>
+
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>select-test-1-1-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>4</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/results-per-sample</link>
+      <title>Results Per Sample</title>
+      <pubDate>Sat, 29 Apr 2023 11:49:12 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="644cd17d6e4f4e0ba21680b9">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="light"
+  class='page-section has-section-divider
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+       has-background
+    
+    
+    light'
+  
+  data-section-id="644cd21762ae2860d5ffe2ff"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;644cd27827fd085dfd0695cc&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1682756216076,
+    &quot;updatedOn&quot;: 1682756931686,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1682756216076,
+    &quot;authorId&quot;: &quot;644cbdb199a6c04b5dade485&quot;,
+    &quot;systemDataId&quot;: &quot;db09f708-25c7-4582-b83a-f72a5e1f52d4&quot;,
+    &quot;systemDataVariants&quot;: &quot;6000x4000,100w,300w,500w,750w,1000w,1500w,2500w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+    &quot;filename&quot;: &quot;matt-hardy-6ArTTluciuA-unsplash.jpg&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;bfd1da&quot;,
+      &quot;topRightAverage&quot;: &quot;d3dee5&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;2e6171&quot;,
+      &quot;bottomRightAverage&quot;: &quot;3d616a&quot;,
+      &quot;centerAverage&quot;: &quot;698a99&quot;,
+      &quot;suggestedBgColor&quot;: &quot;7d979f&quot;
+    },
+    &quot;urlId&quot;: &quot;6qccujawz05d9kodh1y0ka0r9a12kx&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;644cbdb199a6c04b5dade485&quot;,
+      &quot;displayName&quot;: &quot;Mona Behrouzian&quot;,
+      &quot;firstName&quot;: &quot;Mona&quot;,
+      &quot;lastName&quot;: &quot;Behrouzian&quot;,
+      &quot;avatarUrl&quot;: &quot;https://static1.squarespace.com/static/images/644cbdb26199f81f1d76df44&quot;,
+      &quot;bio&quot;: &quot;&quot;,
+      &quot;avatarAssetUrl&quot;: &quot;https://static1.squarespace.com/static/images/644cbdb26199f81f1d76df44&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/db09f708-25c7-4582-b83a-f72a5e1f52d4/matt-hardy-6ArTTluciuA-unsplash.jpg&quot;,
+    &quot;contentType&quot;: &quot;image/jpeg&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;recordTypeLabel&quot;: &quot;image&quot;,
+    &quot;originalSize&quot;: &quot;6000x4000&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.77,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;light&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;,
+  &quot;imageEffect&quot;: &quot;none&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;liquid&quot;,
+    &quot;rotation&quot;: 270,
+    &quot;speed&quot;: 50,
+    &quot;intensity&quot;: 10,
+    &quot;scale&quot;: 2,
+    &quot;shadow&quot;: 8,
+    &quot;seed&quot;: 100,
+    &quot;smoothness&quot;: 100,
+    &quot;morphSpeed&quot;: 5
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: true,
+    &quot;type&quot;: &quot;pointed&quot;,
+    &quot;width&quot;: {
+      &quot;unit&quot;: &quot;vw&quot;,
+      &quot;value&quot;: 100.0
+    },
+    &quot;height&quot;: {
+      &quot;unit&quot;: &quot;vw&quot;,
+      &quot;value&quot;: 8.0
+    },
+    &quot;isFlipX&quot;: true,
+    &quot;isFlipY&quot;: false,
+    &quot;offset&quot;: {
+      &quot;unit&quot;: &quot;px&quot;,
+      &quot;value&quot;: 0.0
+    },
+    &quot;stroke&quot;: {
+      &quot;style&quot;: &quot;none&quot;,
+      &quot;color&quot;: {
+        &quot;type&quot;: &quot;THEME_COLOR&quot;
+      },
+      &quot;thickness&quot;: {
+        &quot;unit&quot;: &quot;px&quot;,
+        &quot;value&quot;: 6.0
+      },
+      &quot;dashLength&quot;: {
+        &quot;unit&quot;: &quot;px&quot;,
+        &quot;value&quot;: 5.0
+      },
+      &quot;gapLength&quot;: {
+        &quot;unit&quot;: &quot;px&quot;,
+        &quot;value&quot;: 15.0
+      },
+      &quot;linecap&quot;: &quot;square&quot;
+    }
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div
+    class="section-border" 
+    
+      data-controller="SectionDivider"
+      style="clip-path: url(#section-divider-644cd21762ae2860d5ffe2ff);"
+    
+  >
+    <div class="section-background">
+    
+      
+        
+        
+          
+              
+
+
+
+  
+    
+<script>
+  "use strict";
+
+  var positionImage = function positionImage(imageEl) {
+    var imageDimensions = imageEl.dataset.imageDimensions.split('x');
+    var originalWidth = imageDimensions[0];
+    var originalHeight = imageDimensions[1];
+    var focalPoint = imageEl.dataset.imageFocalPoint.split(',');
+    var focalPointX = focalPoint[0];
+    var focalPointY = focalPoint[1];
+    var parentNode = imageEl.parentNode;
+
+    var scale = function () {
+      var imageRatio = originalWidth / originalHeight;
+      var parentClientSize = {
+        height: parentNode.clientHeight,
+        width: parentNode.clientWidth
+      };
+      var parentRatio = parentClientSize.width / parentClientSize.height;
+
+      if (imageRatio > parentRatio) {
+        return parentClientSize.height / originalHeight;
+      }
+
+      return parentClientSize.width / originalWidth;
+    }();
+
+    var getRelativeOffset = function getRelativeOffset() {
+      var targetWidth = Math.ceil(originalWidth * scale);
+      var targetHeight = Math.ceil(originalHeight * scale);
+      var parentDimensionWidth = parentNode.offsetWidth;
+      var parentDimensionHeight = parentNode.offsetHeight;
+      var overflowWidth = targetWidth - parentDimensionWidth;
+      var overflowHeight = targetHeight - parentDimensionHeight;
+      var valueX;
+
+      if (overflowWidth === 0) {
+        valueX = focalPointX;
+      } else {
+        valueX = Math.max(Math.min(targetWidth * focalPointX - parentDimensionWidth * 0.5, overflowWidth), 0) / overflowWidth;
+      }
+
+      var valueY;
+
+      if (overflowHeight === 0) {
+        valueY = focalPointY;
+      } else {
+        valueY = Math.max(Math.min(targetHeight * focalPointY - parentDimensionHeight * 0.5, overflowHeight), 0) / overflowHeight;
+      }
+
+      return {
+        valueX: valueX,
+        valueY: valueY
+      };
+    };
+
+    var relativeOffset = getRelativeOffset();
+    var valueX = relativeOffset.valueX;
+    var valueY = relativeOffset.valueY;
+    imageEl.style.objectPosition = "".concat(valueX * 100, "% ").concat(valueY * 100, "%");
+    Object.assign(imageEl.style, {
+      height: '100%',
+      width: '100%',
+      objectFit: 'cover',
+    });
+  };
+</script>
+
+  
+
+
+
+  <div
+  class="section-background-content"
+  data-controller="BackgroundImageFXLiquid"
+  >
+  
+  <img class="background-image-fx" crossOrigin alt="" src="https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/db09f708-25c7-4582-b83a-f72a5e1f52d4/matt-hardy-6ArTTluciuA-unsplash.jpg" data-image="https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/db09f708-25c7-4582-b83a-f72a5e1f52d4/matt-hardy-6ArTTluciuA-unsplash.jpg" data-image-dimensions="6000x4000" data-image-focal-point="0.5,0.5" alt="matt-hardy-6ArTTluciuA-unsplash.jpg"  data-load="false"
+    
+       srcset="https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/db09f708-25c7-4582-b83a-f72a5e1f52d4/matt-hardy-6ArTTluciuA-unsplash.jpg?format=100w 100w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/db09f708-25c7-4582-b83a-f72a5e1f52d4/matt-hardy-6ArTTluciuA-unsplash.jpg?format=300w 300w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/db09f708-25c7-4582-b83a-f72a5e1f52d4/matt-hardy-6ArTTluciuA-unsplash.jpg?format=500w 500w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/db09f708-25c7-4582-b83a-f72a5e1f52d4/matt-hardy-6ArTTluciuA-unsplash.jpg?format=750w 750w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/db09f708-25c7-4582-b83a-f72a5e1f52d4/matt-hardy-6ArTTluciuA-unsplash.jpg?format=1000w 1000w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/db09f708-25c7-4582-b83a-f72a5e1f52d4/matt-hardy-6ArTTluciuA-unsplash.jpg?format=1500w 1500w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/db09f708-25c7-4582-b83a-f72a5e1f52d4/matt-hardy-6ArTTluciuA-unsplash.jpg?format=2500w 2500w"
+        
+        sizes="(max-width: 799px) 200vw, 100vw" 
+        onLoad="positionImage(this); this.classList.add('loaded');"
+    
+  />
+
+
+  <div class="section-background-canvas background-fx-canvas"></div>
+</div>
+
+
+            
+        
+        <div class="section-background-overlay" style="opacity: 0.77;"></div>
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-644cd21762ae2860d5ffe2fe {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(60,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-644cd21762ae2860d5ffe2fe {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-644cd21762ae2860d5ffe2fe {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(14,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-a234e7a1364d0e875a5f {
+    grid-area: 1/2/10/10;
+    z-index: 0;
+  }
+
+  .fe-block-a234e7a1364d0e875a5f .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-a234e7a1364d0e875a5f .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-a234e7a1364d0e875a5f {
+      grid-area: 1/6/3/22;
+      z-index: 0;
+    }
+
+    .fe-block-a234e7a1364d0e875a5f .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-a234e7a1364d0e875a5f .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-50168140a4d25ad10772 {
+    grid-area: 11/2/13/10;
+    z-index: 4;
+  }
+
+  .fe-block-50168140a4d25ad10772 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-50168140a4d25ad10772 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-50168140a4d25ad10772 {
+      grid-area: 12/9/14/19;
+      z-index: 4;
+    }
+
+    .fe-block-50168140a4d25ad10772 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-50168140a4d25ad10772 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-09fd895f5b08124b6aa0 {
+    grid-area: 13/2/19/10;
+    z-index: 6;
+  }
+
+  .fe-block-09fd895f5b08124b6aa0 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-09fd895f5b08124b6aa0 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-09fd895f5b08124b6aa0 {
+      grid-area: 3/4/12/11;
+      z-index: 6;
+    }
+
+    .fe-block-09fd895f5b08124b6aa0 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-09fd895f5b08124b6aa0 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-93f7aec4736f5ad1f113 {
+    grid-area: 19/2/21/10;
+    z-index: 8;
+  }
+
+  .fe-block-93f7aec4736f5ad1f113 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-93f7aec4736f5ad1f113 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-93f7aec4736f5ad1f113 {
+      grid-area: 3/4/5/11;
+      z-index: 8;
+    }
+
+    .fe-block-93f7aec4736f5ad1f113 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-93f7aec4736f5ad1f113 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-5a6dc759ae3cb01d0801 {
+    grid-area: 21/2/27/10;
+    z-index: 7;
+  }
+
+  .fe-block-5a6dc759ae3cb01d0801 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-5a6dc759ae3cb01d0801 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-5a6dc759ae3cb01d0801 {
+      grid-area: 5/5/10/10;
+      z-index: 7;
+    }
+
+    .fe-block-5a6dc759ae3cb01d0801 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-5a6dc759ae3cb01d0801 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-0b4e69abbf7c1bdfdd2a {
+    grid-area: 27/2/29/10;
+    z-index: 9;
+  }
+
+  .fe-block-0b4e69abbf7c1bdfdd2a .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-0b4e69abbf7c1bdfdd2a .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-0b4e69abbf7c1bdfdd2a {
+      grid-area: 10/4/12/11;
+      z-index: 9;
+    }
+
+    .fe-block-0b4e69abbf7c1bdfdd2a .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-0b4e69abbf7c1bdfdd2a .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1682753672279_66295 {
+    grid-area: 29/2/35/10;
+    z-index: 5;
+  }
+
+  .fe-block-yui_3_17_2_1_1682753672279_66295 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1682753672279_66295 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1682753672279_66295 {
+      grid-area: 3/11/12/18;
+      z-index: 5;
+    }
+
+    .fe-block-yui_3_17_2_1_1682753672279_66295 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1682753672279_66295 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1682753672279_68617 {
+    grid-area: 35/2/37/10;
+    z-index: 7;
+  }
+
+  .fe-block-yui_3_17_2_1_1682753672279_68617 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1682753672279_68617 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1682753672279_68617 {
+      grid-area: 3/11/5/18;
+      z-index: 7;
+    }
+
+    .fe-block-yui_3_17_2_1_1682753672279_68617 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1682753672279_68617 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1682753672279_67193 {
+    grid-area: 37/2/43/10;
+    z-index: 6;
+  }
+
+  .fe-block-yui_3_17_2_1_1682753672279_67193 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1682753672279_67193 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1682753672279_67193 {
+      grid-area: 5/12/10/17;
+      z-index: 6;
+    }
+
+    .fe-block-yui_3_17_2_1_1682753672279_67193 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1682753672279_67193 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1682753672279_71224 {
+    grid-area: 43/2/45/10;
+    z-index: 8;
+  }
+
+  .fe-block-yui_3_17_2_1_1682753672279_71224 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1682753672279_71224 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1682753672279_71224 {
+      grid-area: 10/11/12/18;
+      z-index: 8;
+    }
+
+    .fe-block-yui_3_17_2_1_1682753672279_71224 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1682753672279_71224 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-9f3b0cef98bd60a22f3c {
+    grid-area: 45/2/51/10;
+    z-index: 7;
+  }
+
+  .fe-block-9f3b0cef98bd60a22f3c .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-9f3b0cef98bd60a22f3c .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-9f3b0cef98bd60a22f3c {
+      grid-area: 3/18/12/25;
+      z-index: 7;
+    }
+
+    .fe-block-9f3b0cef98bd60a22f3c .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-9f3b0cef98bd60a22f3c .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-53d197e9579e3576e82e {
+    grid-area: 51/2/53/10;
+    z-index: 9;
+  }
+
+  .fe-block-53d197e9579e3576e82e .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-53d197e9579e3576e82e .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-53d197e9579e3576e82e {
+      grid-area: 3/18/5/25;
+      z-index: 9;
+    }
+
+    .fe-block-53d197e9579e3576e82e .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-53d197e9579e3576e82e .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-25942c1b67fc79b241d7 {
+    grid-area: 53/2/59/10;
+    z-index: 8;
+  }
+
+  .fe-block-25942c1b67fc79b241d7 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-25942c1b67fc79b241d7 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-25942c1b67fc79b241d7 {
+      grid-area: 5/19/10/24;
+      z-index: 8;
+    }
+
+    .fe-block-25942c1b67fc79b241d7 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-25942c1b67fc79b241d7 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-616645f53d62be938980 {
+    grid-area: 59/2/61/10;
+    z-index: 10;
+  }
+
+  .fe-block-616645f53d62be938980 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-616645f53d62be938980 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-616645f53d62be938980 {
+      grid-area: 10/18/12/25;
+      z-index: 10;
+    }
+
+    .fe-block-616645f53d62be938980 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-616645f53d62be938980 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-644cd21762ae2860d5ffe2fe"><div class="fe-block fe-block-a234e7a1364d0e875a5f"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-a234e7a1364d0e875a5f"><div class="sqs-block-content">
+
+<h3 style="text-align:center;white-space:pre-wrap;">Results Per Sample</h3>
+
+
+
+</div></div></div><div class="fe-block fe-block-50168140a4d25ad10772"><div class="sqs-block button-block sqs-block-button sqs-stretched" data-block-type="53" id="block-50168140a4d25ad10772"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container sqs-block-button-container--center"
+  data-animation-role="button"
+  data-alignment="center"
+  data-button-size="medium"
+  data-button-type="primary"
+>
+  <a
+    href="/results-per-sample-2"
+    class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+    
+  >
+    Continue to Report Summary
+  </a>
+</div>
+</div></div></div><div class="fe-block fe-block-09fd895f5b08124b6aa0"><div class="sqs-block shape-block sqs-block-shape sqs-stretched" data-block-type="71" id="block-09fd895f5b08124b6aa0"><div class="sqs-block-content">
+
+<div
+  class="sqs-shape-block-container sqs-block-alignment-wrapper"
+  data-shape-name="rectangle"
+  
+>
+  
+    <div class="sqs-shape sqs-shape-rectangle"
+    style="
+      
+      
+      
+      
+    "
+    ></div>
+  
+  <style>
+    #block-09fd895f5b08124b6aa0 .sqs-block-alignment-wrapper {
+      
+      
+      justify-content: center;
+      
+      
+    }
+
+    
+      
+        #block-09fd895f5b08124b6aa0 {
+          --shape-block-background-color: 
+  
+    
+      hsla(var(--lightAccent-hsl), 1)
+    
+  
+  
+;
+        }
+      
+    
+
+    
+      
+      
+    
+  </style>
+</div>
+</div></div></div><div class="fe-block fe-block-93f7aec4736f5ad1f113"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-93f7aec4736f5ad1f113"><div class="sqs-block-content">
+
+<h4 style="text-align:center;white-space:pre-wrap;">Sample 1 (20 mins)</h4>
+
+
+
+</div></div></div><div class="fe-block fe-block-5a6dc759ae3cb01d0801"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="100" data-block-type="5" id="block-5a6dc759ae3cb01d0801"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <svg data-image-mask-id="5a6dc759ae3cb01d0801" width="0" height="0" style="position: absolute;">
+    <defs>
+      <clipPath id="5a6dc759ae3cb01d0801" clipPathUnits="objectBoundingBox">
+        
+
+        
+
+        
+
+        
+          <path d="M0,0.5 A0.5 0.5, 0 0 1, 1 0.5 M1,0.5 A0.5 0.5, 0 0 1, 0 0.5 Z">
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+      </clipPath>
+    </defs>
+  </svg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          data-shape-mask="circle"
+          style="overflow: hidden;clip-path: url(#5a6dc759ae3cb01d0801);-webkit-clip-path: url(#5a6dc759ae3cb01d0801);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            
+              <noscript>
+                <img src="https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/1682756423814-W77MWUKO3DFIVJ96H4O7/unsplash-image-R49cUgaQ0mk.jpg" alt="" loading="lazy" style="
+                  object-fit: cover;
+                  object-position: calc(0.5 * 100%) calc(0.5 * 100%);
+                "/>
+              </noscript>
+              <img
+                src="https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/1682756423814-W77MWUKO3DFIVJ96H4O7/unsplash-image-R49cUgaQ0mk.jpg" data-image="https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/1682756423814-W77MWUKO3DFIVJ96H4O7/unsplash-image-R49cUgaQ0mk.jpg" data-image-dimensions="2500x1758" data-image-focal-point="0.5,0.5" alt="" 
+                loading="lazy"
+                data-stretch="false"
+                
+                style="object-fit: cover;object-position: calc(0.5 * 100%) calc(0.5 * 100%);"
+              />
+            
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      
+
+      
+        .fe-block-5a6dc759ae3cb01d0801 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-0b4e69abbf7c1bdfdd2a"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-0b4e69abbf7c1bdfdd2a"><div class="sqs-block-content">
+
+<p style="text-align:center;white-space:pre-wrap;" class="">Microplastic Concentration (Particles/Litre): <strong>1000</strong></p>
+
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1682753672279_66295"><div class="sqs-block shape-block sqs-block-shape sqs-stretched" data-block-type="71" id="block-yui_3_17_2_1_1682753672279_66295"><div class="sqs-block-content">
+
+<div
+  class="sqs-shape-block-container sqs-block-alignment-wrapper"
+  data-shape-name="rectangle"
+  
+>
+  
+    <div class="sqs-shape sqs-shape-rectangle"
+    style="
+      
+      
+      
+      
+    "
+    ></div>
+  
+  <style>
+    #block-yui_3_17_2_1_1682753672279_66295 .sqs-block-alignment-wrapper {
+      
+      
+      justify-content: center;
+      
+      
+    }
+
+    
+      
+        #block-yui_3_17_2_1_1682753672279_66295 {
+          --shape-block-background-color: 
+  
+    
+      hsla(var(--lightAccent-hsl), 1)
+    
+  
+  
+;
+        }
+      
+    
+
+    
+      
+      
+    
+  </style>
+</div>
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1682753672279_68617"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1682753672279_68617"><div class="sqs-block-content">
+
+<h4 style="text-align:center;white-space:pre-wrap;">Sample 2 (40 mins)</h4>
+
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1682753672279_67193"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="100" data-block-type="5" id="block-yui_3_17_2_1_1682753672279_67193"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <svg data-image-mask-id="yui_3_17_2_1_1682753672279_67193" width="0" height="0" style="position: absolute;">
+    <defs>
+      <clipPath id="yui_3_17_2_1_1682753672279_67193" clipPathUnits="objectBoundingBox">
+        
+
+        
+
+        
+
+        
+          <path d="M0,0.5 A0.5 0.5, 0 0 1, 1 0.5 M1,0.5 A0.5 0.5, 0 0 1, 0 0.5 Z">
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+      </clipPath>
+    </defs>
+  </svg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          data-shape-mask="circle"
+          style="overflow: hidden;clip-path: url(#yui_3_17_2_1_1682753672279_67193);-webkit-clip-path: url(#yui_3_17_2_1_1682753672279_67193);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            
+              <noscript>
+                <img src="https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/1682756423814-W77MWUKO3DFIVJ96H4O7/unsplash-image-R49cUgaQ0mk.jpg" alt="" loading="lazy" style="
+                  object-fit: cover;
+                  object-position: calc(0.14179097358635337 * 100%) calc(0.7920791885809872 * 100%);
+                "/>
+              </noscript>
+              <img
+                src="https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/1682756423814-W77MWUKO3DFIVJ96H4O7/unsplash-image-R49cUgaQ0mk.jpg" data-image="https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/1682756423814-W77MWUKO3DFIVJ96H4O7/unsplash-image-R49cUgaQ0mk.jpg" data-image-dimensions="2500x1758" data-image-focal-point="0.14179097358635337,0.7920791885809872" alt="" 
+                loading="lazy"
+                data-stretch="false"
+                
+                style="object-fit: cover;object-position: calc(0.14179097358635337 * 100%) calc(0.7920791885809872 * 100%);"
+              />
+            
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      
+
+      
+        .fe-block-yui_3_17_2_1_1682753672279_67193 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1682753672279_71224"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1682753672279_71224"><div class="sqs-block-content">
+
+<p style="text-align:center;white-space:pre-wrap;" class="">Microplastic Concentration (Particles/Litre): <strong>200</strong></p>
+
+
+
+</div></div></div><div class="fe-block fe-block-9f3b0cef98bd60a22f3c"><div class="sqs-block shape-block sqs-block-shape sqs-stretched" data-block-type="71" id="block-9f3b0cef98bd60a22f3c"><div class="sqs-block-content">
+
+<div
+  class="sqs-shape-block-container sqs-block-alignment-wrapper"
+  data-shape-name="rectangle"
+  
+>
+  
+    <div class="sqs-shape sqs-shape-rectangle"
+    style="
+      
+      
+      
+      
+    "
+    ></div>
+  
+  <style>
+    #block-9f3b0cef98bd60a22f3c .sqs-block-alignment-wrapper {
+      
+      
+      justify-content: center;
+      
+      
+    }
+
+    
+      
+        #block-9f3b0cef98bd60a22f3c {
+          --shape-block-background-color: 
+  
+    
+      hsla(var(--lightAccent-hsl), 1)
+    
+  
+  
+;
+        }
+      
+    
+
+    
+      
+      
+    
+  </style>
+</div>
+</div></div></div><div class="fe-block fe-block-53d197e9579e3576e82e"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-53d197e9579e3576e82e"><div class="sqs-block-content">
+
+<h4 style="text-align:center;white-space:pre-wrap;">Sample 3 (60 mins)</h4>
+
+
+
+</div></div></div><div class="fe-block fe-block-25942c1b67fc79b241d7"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="100" data-block-type="5" id="block-25942c1b67fc79b241d7"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <svg data-image-mask-id="25942c1b67fc79b241d7" width="0" height="0" style="position: absolute;">
+    <defs>
+      <clipPath id="25942c1b67fc79b241d7" clipPathUnits="objectBoundingBox">
+        
+
+        
+
+        
+
+        
+          <path d="M0,0.5 A0.5 0.5, 0 0 1, 1 0.5 M1,0.5 A0.5 0.5, 0 0 1, 0 0.5 Z">
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+      </clipPath>
+    </defs>
+  </svg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          data-shape-mask="circle"
+          style="overflow: hidden;clip-path: url(#25942c1b67fc79b241d7);-webkit-clip-path: url(#25942c1b67fc79b241d7);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            
+              <noscript>
+                <img src="https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/1682756423814-W77MWUKO3DFIVJ96H4O7/unsplash-image-R49cUgaQ0mk.jpg" alt="" loading="lazy" style="
+                  object-fit: cover;
+                  object-position: calc(1 * 100%) calc(0.44804479354076043 * 100%);
+                "/>
+              </noscript>
+              <img
+                src="https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/1682756423814-W77MWUKO3DFIVJ96H4O7/unsplash-image-R49cUgaQ0mk.jpg" data-image="https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/1682756423814-W77MWUKO3DFIVJ96H4O7/unsplash-image-R49cUgaQ0mk.jpg" data-image-dimensions="2500x1758" data-image-focal-point="1.0,0.44804479354076043" alt="" 
+                loading="lazy"
+                data-stretch="false"
+                
+                style="object-fit: cover;object-position: calc(1 * 100%) calc(0.44804479354076043 * 100%);"
+              />
+            
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      
+
+      
+        .fe-block-25942c1b67fc79b241d7 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-616645f53d62be938980"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-616645f53d62be938980"><div class="sqs-block-content">
+
+<p style="text-align:center;white-space:pre-wrap;" class="">Microplastic Concentration (Particles/Litre): <strong>50</strong></p>
+
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+
+
+
+
+
+<div
+  class="section-divider-display"
+  style="
+    --stroke-thickness: 0;
+    --stroke-dasharray: 0;
+    --stroke-linecap: square;
+    
+      
+      
+    
+  "
+>
+  <style data-section-divider-style>
+    .has-section-divider[data-section-id="644cd21762ae2860d5ffe2ff"] {
+      padding-bottom: 8vw;
+      z-index: calc(1 + 1 - 1);
+    }
+
+    .has-section-divider[data-section-id="644cd21762ae2860d5ffe2ff"] .background-pause-button {
+      bottom: calc(14px + 8vw);
+    }
+
+    .has-section-divider[data-section-id="644cd21762ae2860d5ffe2ff"] .section-divider-svg-clip {
+      display: block;
+    }
+
+    .has-section-divider[data-section-id="644cd21762ae2860d5ffe2ff"].background-width--inset:not(.content-collection):not(.gallery-section):not(.user-items-list-section) {
+      padding-bottom: calc(var(--sqs-site-gutter) + 8vw);
+    }
+
+    .has-section-divider[data-section-id="644cd21762ae2860d5ffe2ff"].background-width--inset:not(.content-collection):not(.gallery-section):not(.user-items-list-section) .section-background {
+      bottom: calc(var(--sqs-site-gutter) + 8vw);
+    }
+
+    .has-section-divider[data-section-id="644cd21762ae2860d5ffe2ff"] .section-divider-block {
+      height: 8vw;
+    }
+
+    .has-section-divider[data-section-id="644cd21762ae2860d5ffe2ff"] + .page-section .section-border,
+    .has-section-divider[data-section-id="644cd21762ae2860d5ffe2ff"] + .page-section .section-divider-display,
+    footer > .page-section:first-child .section-border,
+    footer > .page-section:first-child .section-divider-display {
+      top: -8vw;
+    }
+
+    .has-section-divider[data-section-id="644cd21762ae2860d5ffe2ff"] + .page-section.background-width--inset:not(.content-collection):not(.gallery-section):not(.user-items-list-section) .section-background,
+    footer > .page-section.background-width--inset:first-child:not(.content-collection):not(.gallery-section):not(.user-items-list-section) .section-background {
+      top: calc(var(--sqs-site-gutter) + 8vw);
+    }
+  </style>
+  <div class="section-divider-block"></div>
+  <svg class="section-divider-svg-clip">
+    <clipPath
+      id="section-divider-644cd21762ae2860d5ffe2ff"
+      clipPathUnits="objectBoundingBox"
+    >
+      <path class="section-divider-clip" d="M0,0" />
+    </clipPath>
+  </svg>
+  <svg class="section-divider-svg-stroke" viewBox="0 0 1 1" preserveAspectRatio="none">
+    <path class="section-divider-stroke" d="M0,0" vector-effect="non-scaling-stroke" />
+  </svg>
+</div>
+
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>results-per-sample</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>5</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/results-per-sample-2</link>
+      <title>Report Summary</title>
+      <pubDate>Sat, 29 Apr 2023 12:55:17 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="644cfdde1244c01b73fb2477">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="light"
+  class='page-section has-section-divider
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+       has-background
+    
+    
+    light'
+  
+  data-section-id="644cfdde1244c01b73fb247b"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;644cfdde1244c01b73fb2476&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1682756216076,
+    &quot;updatedOn&quot;: 1682756931686,
+    &quot;starred&quot;: false,
+    &quot;passthrough&quot;: false,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1682756216076,
+    &quot;authorId&quot;: &quot;644cbdb199a6c04b5dade485&quot;,
+    &quot;systemDataId&quot;: &quot;db09f708-25c7-4582-b83a-f72a5e1f52d4&quot;,
+    &quot;systemDataVariants&quot;: &quot;6000x4000,100w,300w,500w,750w,1000w,1500w,2500w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+    &quot;filename&quot;: &quot;matt-hardy-6ArTTluciuA-unsplash.jpg&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;bfd1da&quot;,
+      &quot;topRightAverage&quot;: &quot;d3dee5&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;2e6171&quot;,
+      &quot;bottomRightAverage&quot;: &quot;3d616a&quot;,
+      &quot;centerAverage&quot;: &quot;698a99&quot;,
+      &quot;suggestedBgColor&quot;: &quot;7d979f&quot;
+    },
+    &quot;urlId&quot;: &quot;6qccujawz05d9kodh1y0ka0r9a12kx-eam8m&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;644cbdb199a6c04b5dade485&quot;,
+      &quot;displayName&quot;: &quot;Mona Behrouzian&quot;,
+      &quot;firstName&quot;: &quot;Mona&quot;,
+      &quot;lastName&quot;: &quot;Behrouzian&quot;,
+      &quot;avatarUrl&quot;: &quot;https://static1.squarespace.com/static/images/644cbdb26199f81f1d76df44&quot;,
+      &quot;bio&quot;: &quot;&quot;,
+      &quot;avatarAssetUrl&quot;: &quot;https://static1.squarespace.com/static/images/644cbdb26199f81f1d76df44&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/db09f708-25c7-4582-b83a-f72a5e1f52d4/matt-hardy-6ArTTluciuA-unsplash.jpg&quot;,
+    &quot;contentType&quot;: &quot;image/jpeg&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;recordTypeLabel&quot;: &quot;image&quot;,
+    &quot;originalSize&quot;: &quot;6000x4000&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.77,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;light&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;,
+  &quot;imageEffect&quot;: &quot;none&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;liquid&quot;,
+    &quot;rotation&quot;: 270,
+    &quot;speed&quot;: 50,
+    &quot;intensity&quot;: 10,
+    &quot;scale&quot;: 2,
+    &quot;shadow&quot;: 8,
+    &quot;seed&quot;: 100,
+    &quot;smoothness&quot;: 100,
+    &quot;morphSpeed&quot;: 5
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: true,
+    &quot;type&quot;: &quot;pointed&quot;,
+    &quot;width&quot;: {
+      &quot;unit&quot;: &quot;vw&quot;,
+      &quot;value&quot;: 100.0
+    },
+    &quot;height&quot;: {
+      &quot;unit&quot;: &quot;vw&quot;,
+      &quot;value&quot;: 8.0
+    },
+    &quot;isFlipX&quot;: true,
+    &quot;isFlipY&quot;: false,
+    &quot;offset&quot;: {
+      &quot;unit&quot;: &quot;px&quot;,
+      &quot;value&quot;: 0.0
+    },
+    &quot;stroke&quot;: {
+      &quot;style&quot;: &quot;none&quot;,
+      &quot;color&quot;: {
+        &quot;type&quot;: &quot;THEME_COLOR&quot;
+      },
+      &quot;thickness&quot;: {
+        &quot;unit&quot;: &quot;px&quot;,
+        &quot;value&quot;: 6.0
+      },
+      &quot;dashLength&quot;: {
+        &quot;unit&quot;: &quot;px&quot;,
+        &quot;value&quot;: 5.0
+      },
+      &quot;gapLength&quot;: {
+        &quot;unit&quot;: &quot;px&quot;,
+        &quot;value&quot;: 15.0
+      },
+      &quot;linecap&quot;: &quot;square&quot;
+    }
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div
+    class="section-border" 
+    
+      data-controller="SectionDivider"
+      style="clip-path: url(#section-divider-644cfdde1244c01b73fb247b);"
+    
+  >
+    <div class="section-background">
+    
+      
+        
+        
+          
+              
+
+
+
+  
+    
+<script>
+  "use strict";
+
+  var positionImage = function positionImage(imageEl) {
+    var imageDimensions = imageEl.dataset.imageDimensions.split('x');
+    var originalWidth = imageDimensions[0];
+    var originalHeight = imageDimensions[1];
+    var focalPoint = imageEl.dataset.imageFocalPoint.split(',');
+    var focalPointX = focalPoint[0];
+    var focalPointY = focalPoint[1];
+    var parentNode = imageEl.parentNode;
+
+    var scale = function () {
+      var imageRatio = originalWidth / originalHeight;
+      var parentClientSize = {
+        height: parentNode.clientHeight,
+        width: parentNode.clientWidth
+      };
+      var parentRatio = parentClientSize.width / parentClientSize.height;
+
+      if (imageRatio > parentRatio) {
+        return parentClientSize.height / originalHeight;
+      }
+
+      return parentClientSize.width / originalWidth;
+    }();
+
+    var getRelativeOffset = function getRelativeOffset() {
+      var targetWidth = Math.ceil(originalWidth * scale);
+      var targetHeight = Math.ceil(originalHeight * scale);
+      var parentDimensionWidth = parentNode.offsetWidth;
+      var parentDimensionHeight = parentNode.offsetHeight;
+      var overflowWidth = targetWidth - parentDimensionWidth;
+      var overflowHeight = targetHeight - parentDimensionHeight;
+      var valueX;
+
+      if (overflowWidth === 0) {
+        valueX = focalPointX;
+      } else {
+        valueX = Math.max(Math.min(targetWidth * focalPointX - parentDimensionWidth * 0.5, overflowWidth), 0) / overflowWidth;
+      }
+
+      var valueY;
+
+      if (overflowHeight === 0) {
+        valueY = focalPointY;
+      } else {
+        valueY = Math.max(Math.min(targetHeight * focalPointY - parentDimensionHeight * 0.5, overflowHeight), 0) / overflowHeight;
+      }
+
+      return {
+        valueX: valueX,
+        valueY: valueY
+      };
+    };
+
+    var relativeOffset = getRelativeOffset();
+    var valueX = relativeOffset.valueX;
+    var valueY = relativeOffset.valueY;
+    imageEl.style.objectPosition = "".concat(valueX * 100, "% ").concat(valueY * 100, "%");
+    Object.assign(imageEl.style, {
+      height: '100%',
+      width: '100%',
+      objectFit: 'cover',
+    });
+  };
+</script>
+
+  
+
+
+
+  <div
+  class="section-background-content"
+  data-controller="BackgroundImageFXLiquid"
+  >
+  
+  <img class="background-image-fx" crossOrigin alt="" src="https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/db09f708-25c7-4582-b83a-f72a5e1f52d4/matt-hardy-6ArTTluciuA-unsplash.jpg" data-image="https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/db09f708-25c7-4582-b83a-f72a5e1f52d4/matt-hardy-6ArTTluciuA-unsplash.jpg" data-image-dimensions="6000x4000" data-image-focal-point="0.5,0.5" alt="matt-hardy-6ArTTluciuA-unsplash.jpg"  data-load="false"
+    
+       srcset="https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/db09f708-25c7-4582-b83a-f72a5e1f52d4/matt-hardy-6ArTTluciuA-unsplash.jpg?format=100w 100w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/db09f708-25c7-4582-b83a-f72a5e1f52d4/matt-hardy-6ArTTluciuA-unsplash.jpg?format=300w 300w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/db09f708-25c7-4582-b83a-f72a5e1f52d4/matt-hardy-6ArTTluciuA-unsplash.jpg?format=500w 500w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/db09f708-25c7-4582-b83a-f72a5e1f52d4/matt-hardy-6ArTTluciuA-unsplash.jpg?format=750w 750w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/db09f708-25c7-4582-b83a-f72a5e1f52d4/matt-hardy-6ArTTluciuA-unsplash.jpg?format=1000w 1000w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/db09f708-25c7-4582-b83a-f72a5e1f52d4/matt-hardy-6ArTTluciuA-unsplash.jpg?format=1500w 1500w,https://images.squarespace-cdn.com/content/v1/644cbe7f0d77343d6dbef12f/db09f708-25c7-4582-b83a-f72a5e1f52d4/matt-hardy-6ArTTluciuA-unsplash.jpg?format=2500w 2500w"
+        
+        sizes="(max-width: 799px) 200vw, 100vw" 
+        onLoad="positionImage(this); this.classList.add('loaded');"
+    
+  />
+
+
+  <div class="section-background-canvas background-fx-canvas"></div>
+</div>
+
+
+            
+        
+        <div class="section-background-overlay" style="opacity: 0.77;"></div>
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-644cfdde1244c01b73fb247a {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(34,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-644cfdde1244c01b73fb247a {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-644cfdde1244c01b73fb247a {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(15,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-6c936b3ad3f0e5d7647e {
+    grid-area: 1/2/10/10;
+    z-index: 0;
+  }
+
+  .fe-block-6c936b3ad3f0e5d7647e .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-6c936b3ad3f0e5d7647e .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-6c936b3ad3f0e5d7647e {
+      grid-area: 1/6/3/22;
+      z-index: 0;
+    }
+
+    .fe-block-6c936b3ad3f0e5d7647e .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-6c936b3ad3f0e5d7647e .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-84f9e47b655691f68dad {
+    grid-area: 11/2/13/10;
+    z-index: 4;
+  }
+
+  .fe-block-84f9e47b655691f68dad .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-84f9e47b655691f68dad .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-84f9e47b655691f68dad {
+      grid-area: 3/17/5/24;
+      z-index: 4;
+    }
+
+    .fe-block-84f9e47b655691f68dad .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-84f9e47b655691f68dad .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-80a9fb86bef977ebd4a4 {
+    grid-area: 13/2/15/10;
+    z-index: 5;
+  }
+
+  .fe-block-80a9fb86bef977ebd4a4 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-80a9fb86bef977ebd4a4 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-80a9fb86bef977ebd4a4 {
+      grid-area: 5/17/7/24;
+      z-index: 5;
+    }
+
+    .fe-block-80a9fb86bef977ebd4a4 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-80a9fb86bef977ebd4a4 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-a5acb92ecdadba66337c {
+    grid-area: 15/2/17/10;
+    z-index: 6;
+  }
+
+  .fe-block-a5acb92ecdadba66337c .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-a5acb92ecdadba66337c .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-a5acb92ecdadba66337c {
+      grid-area: 7/17/9/24;
+      z-index: 6;
+    }
+
+    .fe-block-a5acb92ecdadba66337c .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-a5acb92ecdadba66337c .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-a8505daeb022e1231822 {
+    grid-area: 17/2/23/10;
+    z-index: 6;
+  }
+
+  .fe-block-a8505daeb022e1231822 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-a8505daeb022e1231822 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-a8505daeb022e1231822 {
+      grid-area: 3/7/14/17;
+      z-index: 6;
+    }
+
+    .fe-block-a8505daeb022e1231822 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-a8505daeb022e1231822 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-ccf7b62730a09f9b5f88 {
+    grid-area: 23/2/25/10;
+    z-index: 8;
+  }
+
+  .fe-block-ccf7b62730a09f9b5f88 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-ccf7b62730a09f9b5f88 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-ccf7b62730a09f9b5f88 {
+      grid-area: 3/7/6/17;
+      z-index: 8;
+    }
+
+    .fe-block-ccf7b62730a09f9b5f88 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-ccf7b62730a09f9b5f88 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-204d6ccec404b081ec7a {
+    grid-area: 25/2/27/10;
+    z-index: 9;
+  }
+
+  .fe-block-204d6ccec404b081ec7a .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-204d6ccec404b081ec7a .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-204d6ccec404b081ec7a {
+      grid-area: 4/7/6/17;
+      z-index: 9;
+    }
+
+    .fe-block-204d6ccec404b081ec7a .sqs-block {
+      justify-content: flex-end;
+    }
+
+    .fe-block-204d6ccec404b081ec7a .sqs-block-alignment-wrapper {
+      align-items: flex-end;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1682766952904_13928 {
+    grid-area: 27/2/35/10;
+    z-index: 10;
+  }
+
+  .fe-block-yui_3_17_2_1_1682766952904_13928 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1682766952904_13928 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1682766952904_13928 {
+      grid-area: 6/8/14/16;
+      z-index: 10;
+    }
+
+    .fe-block-yui_3_17_2_1_1682766952904_13928 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1682766952904_13928 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-644cfdde1244c01b73fb247a"><div class="fe-block fe-block-6c936b3ad3f0e5d7647e"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-6c936b3ad3f0e5d7647e"><div class="sqs-block-content">
+
+<h3 style="text-align:center;white-space:pre-wrap;">Report Summary</h3>
+
+
+
+</div></div></div><div class="fe-block fe-block-84f9e47b655691f68dad"><div class="sqs-block button-block sqs-block-button sqs-stretched" data-block-type="53" id="block-84f9e47b655691f68dad"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container sqs-block-button-container--center"
+  data-animation-role="button"
+  data-alignment="center"
+  data-button-size="medium"
+  data-button-type="primary"
+>
+  <a
+    href="https://docs.google.com/spreadsheets/d/1pMff3qvl6hatnmOkHTKzJeH1lRZ0-WTmW8J0prhPZAg/edit?usp=sharing"
+    class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+    target="_blank"
+  >
+    Open .CSV
+  </a>
+</div>
+</div></div></div><div class="fe-block fe-block-80a9fb86bef977ebd4a4"><div class="sqs-block button-block sqs-block-button sqs-stretched" data-block-type="53" id="block-80a9fb86bef977ebd4a4"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container sqs-block-button-container--center"
+  data-animation-role="button"
+  data-alignment="center"
+  data-button-size="medium"
+  data-button-type="primary"
+>
+  <a
+    href="/select-test"
+    class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+    
+  >
+    ＋New Test
+  </a>
+</div>
+</div></div></div><div class="fe-block fe-block-a5acb92ecdadba66337c"><div class="sqs-block button-block sqs-block-button sqs-stretched" data-block-type="53" id="block-a5acb92ecdadba66337c"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container sqs-block-button-container--center"
+  data-animation-role="button"
+  data-alignment="center"
+  data-button-size="medium"
+  data-button-type="primary"
+>
+  <a
+    href="/home"
+    class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+    
+  >
+    ✕ Close Program
+  </a>
+</div>
+</div></div></div><div class="fe-block fe-block-a8505daeb022e1231822"><div class="sqs-block shape-block sqs-block-shape sqs-stretched" data-block-type="71" id="block-a8505daeb022e1231822"><div class="sqs-block-content">
+
+<div
+  class="sqs-shape-block-container sqs-block-alignment-wrapper"
+  data-shape-name="rectangle"
+  
+>
+  
+    <div class="sqs-shape sqs-shape-rectangle"
+    style="
+      
+      
+      
+      
+    "
+    ></div>
+  
+  <style>
+    #block-a8505daeb022e1231822 .sqs-block-alignment-wrapper {
+      
+      
+      justify-content: center;
+      
+      
+    }
+
+    
+      
+        #block-a8505daeb022e1231822 {
+          --shape-block-background-color: 
+  
+    
+      hsla(var(--lightAccent-hsl), 0.58)
+    
+  
+  
+;
+        }
+      
+    
+
+    
+      
+      
+    
+  </style>
+</div>
+</div></div></div><div class="fe-block fe-block-ccf7b62730a09f9b5f88"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-ccf7b62730a09f9b5f88"><div class="sqs-block-content">
+
+<h4 style="text-align:center;white-space:pre-wrap;">Comparison to Previous Test</h4>
+
+
+
+</div></div></div><div class="fe-block fe-block-204d6ccec404b081ec7a"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-204d6ccec404b081ec7a"><div class="sqs-block-content">
+
+<p style="text-align:center;white-space:pre-wrap;" class="">Microplastic Concentration (Particles/Litre)</p>
+
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1682766952904_13928"><div class="sqs-block chart-block sqs-block-chart" data-block-type="62" id="block-yui_3_17_2_1_1682766952904_13928"><div class="sqs-block-content">
+
+<div class="chart-block-container chart-type-1009" data-settings="{&quot;dataTableId&quot;:&quot;644d002dc900a93d46319fe5&quot;,&quot;title&quot;:&quot;&quot;,&quot;legend&quot;:&quot;visible&quot;,&quot;caption&quot;:&quot;&quot;,&quot;chartType&quot;:1009,&quot;palette&quot;:&quot;Italia&quot;,&quot;flip&quot;:false,&quot;dataTable&quot;:{&quot;id&quot;:&quot;644d002dc900a93d46319fe5&quot;,&quot;data&quot;:[[1000.0,750.0],[500.0,250.0],[50.0,10.0]],&quot;seriesLabels&quot;:[&quot;Current Test&quot;,&quot;Test XYZ&quot;],&quot;sampleLabels&quot;:[&quot;Sample 1&quot;,&quot;Sample 2&quot;,&quot;Sample 3&quot;]},&quot;blockId&quot;:&quot;yui_3_17_2_1_1682766952904_13928&quot;,&quot;featureFlags&quot;:{&quot;useCLDRMoneyFormat&quot;:true}}">
+  <h2></h2>
+  <div class="chart-block-body legend-visible">
+    <div class="chart-block-legend attach1">
+      <figcaption class="legend-content"></figcaption>
+    </div>
+    <div class="chart-block-content">
+      <div><canvas></canvas></div>
+    </div>
+    <div class="chart-block-legend attach2">
+      <figcaption class="legend-content"></figcaption>
+    </div>
+  </div>
+  <div class="chart-block-caption">
+    
+  </div>
+</div>
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+
+
+
+
+
+<div
+  class="section-divider-display"
+  style="
+    --stroke-thickness: 0;
+    --stroke-dasharray: 0;
+    --stroke-linecap: square;
+    
+      
+      
+    
+  "
+>
+  <style data-section-divider-style>
+    .has-section-divider[data-section-id="644cfdde1244c01b73fb247b"] {
+      padding-bottom: 8vw;
+      z-index: calc(1 + 1 - 1);
+    }
+
+    .has-section-divider[data-section-id="644cfdde1244c01b73fb247b"] .background-pause-button {
+      bottom: calc(14px + 8vw);
+    }
+
+    .has-section-divider[data-section-id="644cfdde1244c01b73fb247b"] .section-divider-svg-clip {
+      display: block;
+    }
+
+    .has-section-divider[data-section-id="644cfdde1244c01b73fb247b"].background-width--inset:not(.content-collection):not(.gallery-section):not(.user-items-list-section) {
+      padding-bottom: calc(var(--sqs-site-gutter) + 8vw);
+    }
+
+    .has-section-divider[data-section-id="644cfdde1244c01b73fb247b"].background-width--inset:not(.content-collection):not(.gallery-section):not(.user-items-list-section) .section-background {
+      bottom: calc(var(--sqs-site-gutter) + 8vw);
+    }
+
+    .has-section-divider[data-section-id="644cfdde1244c01b73fb247b"] .section-divider-block {
+      height: 8vw;
+    }
+
+    .has-section-divider[data-section-id="644cfdde1244c01b73fb247b"] + .page-section .section-border,
+    .has-section-divider[data-section-id="644cfdde1244c01b73fb247b"] + .page-section .section-divider-display,
+    footer > .page-section:first-child .section-border,
+    footer > .page-section:first-child .section-divider-display {
+      top: -8vw;
+    }
+
+    .has-section-divider[data-section-id="644cfdde1244c01b73fb247b"] + .page-section.background-width--inset:not(.content-collection):not(.gallery-section):not(.user-items-list-section) .section-background,
+    footer > .page-section.background-width--inset:first-child:not(.content-collection):not(.gallery-section):not(.user-items-list-section) .section-background {
+      top: calc(var(--sqs-site-gutter) + 8vw);
+    }
+  </style>
+  <div class="section-divider-block"></div>
+  <svg class="section-divider-svg-clip">
+    <clipPath
+      id="section-divider-644cfdde1244c01b73fb247b"
+      clipPathUnits="objectBoundingBox"
+    >
+      <path class="section-divider-clip" d="M0,0" />
+    </clipPath>
+  </svg>
+  <svg class="section-divider-svg-stroke" viewBox="0 0 1 1" preserveAspectRatio="none">
+    <path class="section-divider-stroke" d="M0,0" vector-effect="non-scaling-stroke" />
+  </svg>
+</div>
+
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>results-per-sample-2</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>6</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+
